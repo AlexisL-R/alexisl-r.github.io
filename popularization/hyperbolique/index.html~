@@ -5,17 +5,19 @@ title: Géométrie hyperbolique
  <h1>{{ page.title }}</h1>
 	<p> 
 		Le contenu de cette page accompagne une conférence intitulée <em>Des pentagones aux heptagones, une infinité de différences</em> qui a été donnée pour 
-		la première fois au Clubmath de l'Université de Montréal le 23 septembre 2020. Les diapositives seront mises sous peu: le fichier avec ses multiples images est un peu gros, même selon les critères modernes.
+		la première fois au Clubmath de l'Université de Montréal le 23 septembre 2020. Les diapositives seront mises ici sous peu: le fichier avec ses multiples images est un peu gros, même selon les critères modernes.
 	</p>
+	
+	<p><a href="https://youtu.be/pbatR_0QLZA">Vidéo</a>, gracieuseté de Toon Baeyens pour illustrer une marche hyperbolique.</p>
 <h3>HyperRogue et autres jeux</h3>
 	<p>
 		La conférence utilise le jeu <em>HyperRogue</em> créé par Zeno Rogue. Pour plus d'information, allez sur ce site <a href="https://roguetemple.com/z/hyper/" >https://roguetemple.com/z/hyper/</a>
 		 ou chercher le jeu sur Steam ou sur votre logiciels d'applications, disponible sur Windows, Linux, OS, iOS et Android.
 	</p>
 	
-	<p>Un autre jeu en préparation est Hyperbolica, ça peut être intéressant de regarder l'avancement et les vidéos sont bien faites: <a href="https://www.youtube.com/watch?v=EMKLeS-Uq_8">https://www.youtube.com/watch?v=EMKLeS-Uq_8</a>
-	un mode en réalité virtuel est aussi annoncé.
-	
+	<p>
+	Un autre jeu en préparation est Hyperbolica. Voici l'annonce: <a href="https://www.youtube.com/watch?v=EMKLeS-Uq_8">https://www.youtube.com/watch?v=EMKLeS-Uq_8</a>.
+	Un mode en réalité virtuel est aussi annoncé. Le créateur du jeu, CodeParade, a aussi des vidéos intéressantes sur divers sujets, à explorer. 
 	</p>
 	
 	<h3>Crochet hyperbolique</h3>
@@ -27,7 +29,7 @@ Taimina a aussi fait un TEDx talk sur le sujet:  <a href="https://www.youtube.co
 </p>	
 	
 <p>
-Le patron employé est assez simple, à la base il faut faire un rang puis pour le prochain rang débuter par une double maille, continuer pour N mailles et faire une double maille après et continuer aussi
+Le patron employé est assez simple, à la base il faut faire un rang puis pour le prochain rang débuter par une double maille, continuer pour $N$ mailles et faire une double maille après et continuer aussi
 longtemps que voulu. La croissance est exponentielle alors vous devrez arrêter à un moment. Si cette petite explication n'est pas suffisante, allez voir ce site web avec un patron plus élaboré tiré
 de l'article de Taimina et Henderson <a href="https://theiff.org/press/interweave.html">https://theiff.org/press/interweave.html</a>.
 </p>
