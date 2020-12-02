@@ -38,7 +38,7 @@ and Lie algebras. The prerequisites to the subject are:
   <li>Savage, A., 2018. String diagrams and categorification. arXiv:1806.06873 [math]. (Lecture notes from a mini course)</li>
   <li>Savage, A., 2014. Introduction to categorification. arXiv:1401.6037 [math] (Lecture notes from a winter school)</li>
   <li>Khovanov, M., Mazorchuk, V., Stroppel, C., 2009 A Brief Review of Abelian Categorifications 31. TAC.
-	  (A short overvier of categorifications with plenty of examples, see: <a href="http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf">http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf</a></li>
+	  (A short overview of categorifications with plenty of examples, see: <a href="http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf">http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf</a></li>
 
 </u1>
 <p>
@@ -57,8 +57,11 @@ and interesting articles include
 </u1>
 
 
-	<h4>Next meeting Tuesday 27-10-2020 Strong categorification by Sigiswald Barbier </h4>
+	<h4>Next meeting Tuesday   </h4>
 	
+	<p> 
+		Tuesday 01-12-2020 The categorification of $U_q(\mathfrak{sl}_2) by Hadewijch De Clercq.
+	</p>
 		
 		
 		
@@ -67,7 +70,11 @@ and interesting articles include
 	
 	<h4>Past meeting in the Winter 2020 semester</h4>
 		<u1>
-		<li>20-10-2020 Fock space representation of the Heisenberg algebra by Sigiswald Barbier. <a href="/kleine_seminar/notes/2020-10-20-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>24-11-2020 $S_n$ categorification by Alexis Langlois-Rémillard</li>
+		<li>17-11-2020 Category $\mathcal{O}$ basis for $S_n$ categorification by Alexis Langlois-Rémillard <a href="/kleine_seminar/notes/2020-11-17-NotesKleineSeminar.pdf">Notes of the meeting</a> </li>
+		<li>03-11-2020 Strong categorification by Sigiswald Barbier <a href="/kleine_seminar/notes/2020-11-03-NotesKleinSeminar.pdf">Notes of the meeting</a> </li>
+		<li>27-10-2020 Strong categorification by Sigiswald Barbier <a href="/kleine_seminar/notes/2020-10-27-NotesKleineSeminar.pdf">Notes of the meeting</a> </li>
+		<li>20-10-2020 Fock space representation of the Heisenberg algebra by Sigiswald Barbier. <a href="/kleine_seminar/notes/20201020NotesKleineSeminar.pdf">Notes of the meeting</a></li>
 		<li>13-10-2020 Getting back in categorical shape by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/Notes_ALR_13-10-2020.pdf">Notes of the meeting</a></li>
 		<li>11-03-2020 Trace decategorication by Sam Claerebout.</li>
 		<li>10-03-2020 Grothendieck rings and weak categorification by Paulien Jansen.</li>
@@ -79,7 +86,7 @@ and interesting articles include
 	
 	<h4>Meetings minutes</h4>
 	<p>
-		You can find here <a href= "/kleine_seminar/notes/categorification_notes_W2020.pdf">the note of the meeting</a>. The material has probably a high chance of being error-filled here,
+		You can find here <a href= "/kleine_seminar/notes/">the note of the meeting</a>. The material has probably a high chance of being error-filled here,
 		but the margins content some hastily scribbled snippets of the discussion we had in the seminar and might prove interesting!
 	</p>
 	
