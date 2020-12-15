@@ -3,12 +3,13 @@ layout: kleine
 title: Kleine seminar members
 ---
  <h1>{{ page.title }}</h1>
-	<h2>Current members for 2019</h2>
+	<h2>Current members for 2020</h2>
 	<u1> 
 		<li>Sigiswald Barbier, Postdoc UGent</li>
 		<li>Asmus Bisbo, PhD candidate UGent</li>
 		<li>Sam Claerebout, PhD candidate UGent</li>
-		<li>Hadewijch De Clercq, PhD candidate UGent</li> 
+		<li>Ali Guzmán Adán, Postdoc Ugent</li>
+		<li>Paulien Jansen, PhD candidate UGent</li> 
 		<li>Alexis Langlois-Rémillard, PhD candidate UGent</li>
 		<li>Roy Oste, Postdoc UGent</li>
 		<li>Wouter van de Vijver, PhD candidate UGent</li>
