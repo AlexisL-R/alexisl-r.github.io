@@ -1,37 +1,116 @@
 ---
 layout: kleine
-title: Kleine seminar members
+title: Past subjects
 ---
  <h1>{{ page.title }}</h1>
-	<h2>Current members for 2019</h2>
+	<h2>Fall 2019-January 2020</h2>
+	<p>
+		This semester was the first one of the Kleine seminar. The members participating were:	
+	</p>
 	<u1> 
-		<li>Sigiswald Barbier, Postdoc UGent</li>
-		<li>Asmus Bisbo, PhD candidate UGent</li>
-		<li>Sam Claerebout, PhD candidate UGent</li>
-		<li>Hadewijch De Clercq, PhD candidate UGent</li> 
-		<li>Alexis Langlois-Rémillard, PhD candidate UGent</li>
-		<li>Roy Oste, Postdoc UGent</li>
-		<li>Wouter van de Vijver, PhD candidate UGent</li>
+		<li>Sigiswald Barbier, Postdoc UGent;</li>
+		<li>Asmus Bisbo, PhD candidate UGent;</li>
+		<li>Sam Claerebout, PhD candidate UGent;</li>
+		<li>Hadewijch De Clercq, PhD candidate UGent;</li> 
+		<li>Alexis Langlois-Rémillard, PhD candidate UGent;</li>
+		<li>Roy Oste, Postdoc UGent;</li>
+		<li>Wouter van de Vijver, PhD candidate UGent.</li>
 	</u1>
 	
+		<h3>Hecke algebras and double affine Hecke algebras</h3>
+	<p>
+		This semester topic wass on Hecke algebras with a view toward double affine Hecke algebras (DAHA). The reference we were following is the book Iwahori-Hecke Algebra
+		and Schur Algebras of the Symmetric Group by Andrew Mathas and Pavel Etingof's course notes on DAHA. Some more references are in the shared files, only available
+		for UGent members. We completed in Mathas chapters 1 to 3 completely, part of chapter 4 and added some material on DAHA after.
+	</p>
 	
 	
 	
-	<h3>
-	Original members
-	</h3>
-	<p> 
-		The Kleine seminar was created in the summer of 2019 by a like-minded group of PhD candidates and postdoc researchers with interest
-		in representation theory. You can find their names below.
-	<u1>
-		<li>Sigiswald Barbier</li>
-		<li>Asmus Bisbo</li>
-		<li>Sam Claerebout</li>
-		<li>Hadewijch De Clercq</li> 
-		<li>Alexis Langlois-Rémillard</li>
-		<li>Roy Oste</li>
-		<li>Wouter van de Vijver</li>
-	</u1>
+
+	
+	<h4>Past meetings</h4>
+		<u1>
+			<li>Tuesday January 21st, Hadewijch De Clercq finished the construction and justification of DAHA, closing the Fall seminar.</li>			
+			<li>Wednesday January 15th, Hadewijch De Clercq presented preliminaries on affine root systems and gave the construction of AHA.</li>
+			<li>Thursday January 09th, Roy Oste presented the construction of DAHA and introduced all the in between construction pertaining to this.</li>			
+			<li>Tuesday December 10th, Asmus Bisbo reviewed some of the interesting results in the fourth chapter of Mathas.</li>			
+			<li>Wednesday December 4th, Wouter van de Vijver finished section 3.4 giving a characterization of simple standard modules of the Iwahori-Hecke algebra.</li>			
+			<li>Tuesday November 26th, Sam Claerabout finished section 3.3 by proving the orthogonality of the basis elements and Wouter van de Vijver returned to an example of
+			irreducible modules via the Murphy basis</li>
+			<li>Tuesday November 19th, Sam Claerabout presented the Specht modules for the Hecke algebra in section 3.3</li>
+			<li>Tuesday November 12th, Sigiswald Barbier presented the Murphy basis theorem of section 3.2 and related lemmas.</li>			
+			<li>Tuesday November 05th, Sigiswald Barbier presented the theorem of Ehresmann of section 3.1 and related lemmas.</li>			
+			<li>Tuesday October 22th, Alexis Langlois-Rémillard presented the last part of the second chapter of Mathas. Proof of lemmas 2.18, 2.9 and of theorem 2.20 were given. 
+			Sigiswald Barbier then started the study of chapter 3 with the beginning of section 1. Reaching Corollary 3.4.</li>		
+			<li>Tuesday October 8th, Alexis Langlois-Rémillard presented the second part of the second chapter of Mathas. We reached theorem 2.20, skipping lemmas 2.18 and 2.19 </li>
+			<li>Friday October 4th, Alexis Langlois-Rémillard presented the first part of the second chapter of Mathas on Cellular algebra. We reached the statement of theorem 2.16 on a 
+				complete list of non-equivalent simple modules in a cellular algebras (Theorem 2.16)</li>
+			<li>Thursday September 19th, Asmus Bisbo presented the first chapter of Mathas on introduction to Hecke algebras and some preliminary results on the symmetric group</li>
+		</u1>
+	
+<!-- 	
+
+	<p>
+		The topic of my session will be affine and double affine Hecke algebras.
+		
+		This will help me to introduce DAHAs in my second lecture.
+		The main resource for these two talks will be the lecture notes on affine Hecke algebras by Seth Shelley-Abrahamson, a former student of Pavel Etingof, available at <a href="http://math.mit.edu/~sethsa/talk_notes/reminder_on_affine_hecke_algebras.pdf">http://math.mit.edu/~sethsa/talk_notes/reminder_on_affine_hecke_algebras.pdf</a>.
+		For more details on the matter, I refer to Macdonald's book "Affine Hecke algebras and orthogonal polynomials" (I will bring a copy on Wednesday for the interested) and Kirillov's "Lectures on the affine Hecke algebras and Macdonald's conjectures", see <a href="https://arxiv.org/abs/math/9501219">arxiv.org/abs/math/9501219</a>.
+		Unfortunately, I will not be able to cover any of the amazing applications of DAHAs in my lectures, as I will need at least two lecture hours to cover the structure and representation theory of AHAs necessary to introduce DAHAs.
+		The interested reader can consult e.g. <a href="https://web.northeastern.edu/iloseu/DAHAEHA_Chris1.pdf">Ryba's notes</a> for a rather accessible introduction to Macdonald polynomials which I believe builds solely on the material that will be covered in my two lectures.
+	</p>
+
+	<p>
+	As I will be introducing affine root systems, I will assume some familiarity with finite root systems, as is covered in Humphreys' book "Introduction to Lie algebras and representation theory", or in its compactification, Kirillov's "Introduction to Lie groups and Lie algebras".
+	More precisely, I will assume you know the definition and some of the basic properties of the following notions:
+	</p>
+	<u1>   
+    <li>Finite root systems, reduced root systems and irreducible root systems</li>
+    <li>Weyl group of a finite root system and its length function</li>
+    <li>Positive roots and simple roots</li>
+    <li>Root lattice and coroot lattice, weight lattice and coweight lattice</li>
+    <li>Weyl chambers</li>
+    </u1>
+	<p>
+		If you have never heard of these terms or you would simply like to refresh your memory, I recommend you to read through the paragraphs 7.1 up to 7.7 of <a href="https://www.math.stonybrook.edu/~kirillov/liegroups/liegroups.pdf">Kirillov's notes</a>.	
+	</p>
+		More precisely, in this lecture I will explain where those tedious AHA-relations come from, using affine root systems.
+		<p>
+		In this final presentation on Mathas's book, Asmus will review with us the fourth chapter on q-Schur algebras going over the definition, the link with 
+		Iwahori-Hecke algebras and maybe a bit on the difference in combinatorics of Young tableaux between the two.
+		</p>		
+		
+		The presentation will be on the section 3.4 on irreducible modules classification. This talk will conclude chapter 3 by proving the theorem of James and Dipper (3.43).
+				
+		<p>
+		In the second presentation, Sigiswald will finish the first section on combinatorics of Young tableau and will have in his hands the tools to prove that we basis 
+		he constructed is in face a cellular basis for the Hecke algebras. To follow clearly, it might be interesting to revise what is a cellular basis and to check again the 
+		definitions introduced on Young tableaux and shape.	
+		</p>
+		<p>	
+		The first section of chapter 3 is dedicated to the combinatorics of Young tableaux with in mind the construction of the cell basis of the Hecke algebra linked to the
+		permutation group. We will continue from Corollary 3.4 and address some concerns about gab to be filled.
+		</p>
+		Description of second part, to be kept until we decide what to do, or if we gather the strenght to dispose of it
+		The subject covered in this session will aim to be the first section of Chapter 2, stopping at Theorem 2.16. Alexis suggested that interested
+		members should consult Appendix A of the book for a refreshment (or initiation) in representation theory of algebras. Also, it would be wise
+		to read beforehand the definition of cellular algebras and work out example (i) of 2.2.
+		
+		Part 2 will start from the proof of Theorem 2.16 (giving a complete set of unequivalent simple modules) and hope to reach and prove theorem 2.20 giving
+		the relation between the decomposition matrix of the algebra and its Cartan matrix (respectively the matrix with entries the composition multiplicities
+		of the simple module in cell module and composition multiplicities of simple modules in principal modules). A refreshment on projective modules would 
+		be wise, but might be skipped.
+		
+		Part 3 will finish the second chapter by proving the theorem 2.20 and the needed lemmas. To <em>prepare</em>, one would refresh oneself with the flateness property of projective
+		and refresh the vocabulary we introduced last session. -->
+	<h4>Meetings minutes</h4>
+	<p>
+		You can find here <a href= "/kleine_seminar/notes/hecke_notes_F2019.pdf">the (uncompleted) notes of the meeting</a>. The material has probably a higher chance of being error-filled here,
+		but the margins content some hastily scribbled snippets of the discussion we had in the seminar and might prove interesting! 
+	</p>
+	
+	
+	
 	
 	
 	<h3> Contact </h3>
