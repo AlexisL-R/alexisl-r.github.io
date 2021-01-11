@@ -1,0 +1,213 @@
+---
+layout: kleine
+title: Past subjects
+---
+ <h1>{{ page.title }}</h1>
+<h2>Winter 2020 and Fall 2020</h2>	
+	<p>
+The second semester of the Kleine seminar was dedicated to categorification. We took a hiatus due to Covid-19 and returned online in Fall 2020.
+ The members who partipated at least once during this strange double semester were:	
+	</p>
+	<u1> 
+		<li>Sigiswald Barbier, Postdoc UGent;</li>
+		<li>Asmus Bisbo, PhD candidate UGent;</li>
+		<li>Sam Claerebout, PhD candidate UGent;</li>
+		<li>Hadewijch De Clercq, PhD candidate UGent;</li> 
+		<li>Ali Guzmán Adán, Postdoc UGent;</li>
+		<li>Paulien Jansen, PhD candidate UGent;</li>
+		<li>Alexis Langlois-Rémillard, PhD candidate UGent;</li>
+		<li>Roy Oste, Postdoc UGent;</li>
+		<li>Wouter van de Vijver, PhD candidate UGent.</li>
+	</u1>
+	
+	<h4>Meetings in the Winter and Fall 2020 semester</h4>
+		<u1>
+		<li>15-12-2020 The categorification of $U_q(\mathfrak{sl}_2) part III by Hadewijch De Clercq <a href="/kleine_seminar/notes/2020-12-15-NotesKleineSeminar.pdf">Notes of the meeting</a></li>		
+		<li>08-12-2020 The categorification of $U_q(\mathfrak{sl}_2) part II by Hadewijch De Clercq <a href="/kleine_seminar/notes/2020-12-08-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>01-12-2020 The categorification of $U_q(\mathfrak{sl}_2) part I by Hadewijch De Clercq <a href="/kleine_seminar/notes/2020-12-01-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>24-11-2020 $S_n$ categorification by Alexis Langlois-Rémillard <a href="/kleine_seminar/notes/2020-11-24-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>17-11-2020 Category $\mathcal{O}$ basis for $S_n$ categorification by Alexis Langlois-Rémillard <a href="/kleine_seminar/notes/2020-11-17-NotesKleineSeminar.pdf">Notes of the meeting</a> </li>
+		<li>03-11-2020 Strong categorification by Sigiswald Barbier <a href="/kleine_seminar/notes/2020-11-03-NotesKleinSeminar.pdf">Notes of the meeting</a> </li>
+		<li>27-10-2020 Strong categorification by Sigiswald Barbier <a href="/kleine_seminar/notes/2020-10-27-NotesKleineSeminar.pdf">Notes of the meeting</a> </li>
+		<li>20-10-2020 Fock space representation of the Heisenberg algebra by Sigiswald Barbier. <a href="/kleine_seminar/notes/20201020NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>13-10-2020 Getting back in categorical shape by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/Notes_ALR_13-10-2020.pdf">Notes of the meeting</a></li>
+		<li>11-03-2020 Trace decategorication by Sam Claerebout.</li>
+		<li>10-03-2020 Grothendieck rings and weak categorification by Paulien Jansen.</li>
+		<li>19-02-2020 Pivotal categories and string diagrams by Asmus Kj&#230;r Bisbo.</li>
+		<li>12-02-2020 Wouter van der Vijver on monoidal categories and string diagrams.</li>
+		</u1>
+
+	
+	<h2>Fall 2019-January 2020</h2>
+	<p>
+		This semester was the first one of the Kleine seminar. The members participating were:	
+	</p>
+	<u1> 
+		<li>Sigiswald Barbier, Postdoc UGent;</li>
+		<li>Asmus Bisbo, PhD candidate UGent;</li>
+		<li>Sam Claerebout, PhD candidate UGent;</li>
+		<li>Hadewijch De Clercq, PhD candidate UGent;</li> 
+		<li>Alexis Langlois-Rémillard, PhD candidate UGent;</li>
+		<li>Roy Oste, Postdoc UGent;</li>
+		<li>Wouter van de Vijver, PhD candidate UGent.</li>
+	</u1>
+	
+		<h3>Hecke algebras and double affine Hecke algebras</h3>
+	<p>
+		This semester topic wass on Hecke algebras with a view toward double affine Hecke algebras (DAHA). The reference we were following is the book Iwahori-Hecke Algebra
+		and Schur Algebras of the Symmetric Group by Andrew Mathas and Pavel Etingof's course notes on DAHA. Some more references are in the shared files, only available
+		for UGent members. We completed in Mathas chapters 1 to 3 completely, part of chapter 4 and added some material on DAHA after.
+	</p>
+	
+	
+	
+
+	
+	<h4>Past meetings</h4>
+		<u1>
+			<li>Tuesday January 21st, Hadewijch De Clercq finished the construction and justification of DAHA, closing the Fall seminar.</li>			
+			<li>Wednesday January 15th, Hadewijch De Clercq presented preliminaries on affine root systems and gave the construction of AHA.</li>
+			<li>Thursday January 09th, Roy Oste presented the construction of DAHA and introduced all the in between construction pertaining to this.</li>			
+			<li>Tuesday December 10th, Asmus Bisbo reviewed some of the interesting results in the fourth chapter of Mathas.</li>			
+			<li>Wednesday December 4th, Wouter van de Vijver finished section 3.4 giving a characterization of simple standard modules of the Iwahori-Hecke algebra.</li>			
+			<li>Tuesday November 26th, Sam Claerabout finished section 3.3 by proving the orthogonality of the basis elements and Wouter van de Vijver returned to an example of
+			irreducible modules via the Murphy basis</li>
+			<li>Tuesday November 19th, Sam Claerabout presented the Specht modules for the Hecke algebra in section 3.3</li>
+			<li>Tuesday November 12th, Sigiswald Barbier presented the Murphy basis theorem of section 3.2 and related lemmas.</li>			
+			<li>Tuesday November 05th, Sigiswald Barbier presented the theorem of Ehresmann of section 3.1 and related lemmas.</li>			
+			<li>Tuesday October 22th, Alexis Langlois-Rémillard presented the last part of the second chapter of Mathas. Proof of lemmas 2.18, 2.9 and of theorem 2.20 were given. 
+			Sigiswald Barbier then started the study of chapter 3 with the beginning of section 1. Reaching Corollary 3.4.</li>		
+			<li>Tuesday October 8th, Alexis Langlois-Rémillard presented the second part of the second chapter of Mathas. We reached theorem 2.20, skipping lemmas 2.18 and 2.19 </li>
+			<li>Friday October 4th, Alexis Langlois-Rémillard presented the first part of the second chapter of Mathas on Cellular algebra. We reached the statement of theorem 2.16 on a 
+				complete list of non-equivalent simple modules in a cellular algebras (Theorem 2.16)</li>
+			<li>Thursday September 19th, Asmus Bisbo presented the first chapter of Mathas on introduction to Hecke algebras and some preliminary results on the symmetric group</li>
+		</u1>
+	
+	
+<!--	
+<h2>Present topic, Fall 2020 (October - December, continuing Winter 2020) </h2>
+	<h3>Categorification, an exemplar view</h3>
+<p>
+The subject for this semester is on categorification. It is an active research subject that regroup many approaches loosely tied together by an idea:
+that you can get more information by considering an higher algebraic structure for a mathematical object. The interest spreads from the physical community
+in the early 1990. 
+</p>
+<p>
+We hope to study the subject using examples as guiding line to navigate the subtleties. The main examples used will be (double affine) Hecke algebras, quantum groups
+and Lie algebras. The prerequisites to the subject are: 
+</p>
+<u1>
+	<li>Category theory basic vocabulary (Category, functors and natural transformation)</li>
+	<li>Bases in theory of Lie and associative algebras </li>
+	<li>What is an Hecke algebra (of type A)</li>
+</u1>
+
+<p>
+	There is not a single reference for this hydraesque subject. The main references proposed are:	
+</p>
+<u1>
+  <li>Lauda, A., 2011. An introduction to diagrammatic algebra and categorified quantum sl(2) 7 (review of ideas contained in other of his article) </li>
+  <li>Mazorchuk, V., 2011. Lectures on algebraic categorification. arXiv:1011.0144 [math].</li>
+  <li>Savage, A., 2018. String diagrams and categorification. arXiv:1806.06873 [math]. (Lecture notes from a mini course)</li>
+  <li>Savage, A., 2014. Introduction to categorification. arXiv:1401.6037 [math] (Lecture notes from a winter school)</li>
+  <li>Khovanov, M., Mazorchuk, V., Stroppel, C., 2009 A Brief Review of Abelian Categorifications 31. TAC.
+	  (A short overview of categorifications with plenty of examples, see: <a href="http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf">http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf</a></li>
+
+</u1>
+<p>
+and interesting articles include
+</p>
+<u1>
+	<li>Baez, J.C., Dolan, J., 1998. Categorification. arXiv:math/9802029.</li>
+  	<li>Brundan, J., 2013. Quiver Hecke algebras and categorification. arXiv:1301.5868 [math].</li>
+  	<li>Brundan, J., Savage, A., Webster, B., 2019. Heisenberg and Kac-Moody categorification. arXiv:1907.11988 [math].</li>
+   <li>Chuang, J., Rouquier, R., 2008. Derived Equivalences for Symmetric Groups and ${sl}_{2}$ -Categorification. Annals of Mathematics 167, 245–298.</li>
+   <li>Kleshchev, A., 2009. Representation Theory of Symmetric Groups and Related Hecke Algebras. arXiv:0909.4844 [math].</li>
+	<li>Khovanov, M., Lauda, A., 2009. A diagrammatic approach to categorification of quantum groups I. Represent. Theory 13, 309–347. <a href="https://doi.org/10.1090/S1088-4165-09-00346-X">10.1090/S1088-4165-09-00346-X</a></li>
+   <li>Lauda, A.D., 2010. A categorification of quantum $sl(2)$. Advances in Mathematics 225, 3327–3424. <a href="https://doi.org/10.1016/j.aim.2010.06.003">10.1016/j.aim.2010.06.003</a></li>
+	<li>Rosso, D., Savage, A., 2017. A general approach to Heisenberg categorification via wreath product algebras. Math. Z. 286, 603–655. <a href="https://doi.org/10.1007/s00209-016-1776-9">https://doi.org/10.1007/s00209-016-1776-9</a></li>
+   <li>Stroppel, C., 2005. Categorification of the Temperley-Lieb category, tangles, and cobordisms via projective functors. Duke Math. J. 126, 547–596. <a href="https://doi.org/10.1215/S0012-7094-04-12634-X">https://doi.org/10.1215/S0012-7094-04-12634-X</a></li>
+</u1>
+	
+	-->
+	
+	
+	
+<!-- 	
+
+	<p>
+		The topic of my session will be affine and double affine Hecke algebras.
+		
+		This will help me to introduce DAHAs in my second lecture.
+		The main resource for these two talks will be the lecture notes on affine Hecke algebras by Seth Shelley-Abrahamson, a former student of Pavel Etingof, available at <a href="http://math.mit.edu/~sethsa/talk_notes/reminder_on_affine_hecke_algebras.pdf">http://math.mit.edu/~sethsa/talk_notes/reminder_on_affine_hecke_algebras.pdf</a>.
+		For more details on the matter, I refer to Macdonald's book "Affine Hecke algebras and orthogonal polynomials" (I will bring a copy on Wednesday for the interested) and Kirillov's "Lectures on the affine Hecke algebras and Macdonald's conjectures", see <a href="https://arxiv.org/abs/math/9501219">arxiv.org/abs/math/9501219</a>.
+		Unfortunately, I will not be able to cover any of the amazing applications of DAHAs in my lectures, as I will need at least two lecture hours to cover the structure and representation theory of AHAs necessary to introduce DAHAs.
+		The interested reader can consult e.g. <a href="https://web.northeastern.edu/iloseu/DAHAEHA_Chris1.pdf">Ryba's notes</a> for a rather accessible introduction to Macdonald polynomials which I believe builds solely on the material that will be covered in my two lectures.
+	</p>
+
+	<p>
+	As I will be introducing affine root systems, I will assume some familiarity with finite root systems, as is covered in Humphreys' book "Introduction to Lie algebras and representation theory", or in its compactification, Kirillov's "Introduction to Lie groups and Lie algebras".
+	More precisely, I will assume you know the definition and some of the basic properties of the following notions:
+	</p>
+	<u1>   
+    <li>Finite root systems, reduced root systems and irreducible root systems</li>
+    <li>Weyl group of a finite root system and its length function</li>
+    <li>Positive roots and simple roots</li>
+    <li>Root lattice and coroot lattice, weight lattice and coweight lattice</li>
+    <li>Weyl chambers</li>
+    </u1>
+	<p>
+		If you have never heard of these terms or you would simply like to refresh your memory, I recommend you to read through the paragraphs 7.1 up to 7.7 of <a href="https://www.math.stonybrook.edu/~kirillov/liegroups/liegroups.pdf">Kirillov's notes</a>.	
+	</p>
+		More precisely, in this lecture I will explain where those tedious AHA-relations come from, using affine root systems.
+		<p>
+		In this final presentation on Mathas's book, Asmus will review with us the fourth chapter on q-Schur algebras going over the definition, the link with 
+		Iwahori-Hecke algebras and maybe a bit on the difference in combinatorics of Young tableaux between the two.
+		</p>		
+		
+		The presentation will be on the section 3.4 on irreducible modules classification. This talk will conclude chapter 3 by proving the theorem of James and Dipper (3.43).
+				
+		<p>
+		In the second presentation, Sigiswald will finish the first section on combinatorics of Young tableau and will have in his hands the tools to prove that we basis 
+		he constructed is in face a cellular basis for the Hecke algebras. To follow clearly, it might be interesting to revise what is a cellular basis and to check again the 
+		definitions introduced on Young tableaux and shape.	
+		</p>
+		<p>	
+		The first section of chapter 3 is dedicated to the combinatorics of Young tableaux with in mind the construction of the cell basis of the Hecke algebra linked to the
+		permutation group. We will continue from Corollary 3.4 and address some concerns about gab to be filled.
+		</p>
+		Description of second part, to be kept until we decide what to do, or if we gather the strenght to dispose of it
+		The subject covered in this session will aim to be the first section of Chapter 2, stopping at Theorem 2.16. Alexis suggested that interested
+		members should consult Appendix A of the book for a refreshment (or initiation) in representation theory of algebras. Also, it would be wise
+		to read beforehand the definition of cellular algebras and work out example (i) of 2.2.
+		
+		Part 2 will start from the proof of Theorem 2.16 (giving a complete set of unequivalent simple modules) and hope to reach and prove theorem 2.20 giving
+		the relation between the decomposition matrix of the algebra and its Cartan matrix (respectively the matrix with entries the composition multiplicities
+		of the simple module in cell module and composition multiplicities of simple modules in principal modules). A refreshment on projective modules would 
+		be wise, but might be skipped.
+		
+		Part 3 will finish the second chapter by proving the theorem 2.20 and the needed lemmas. To <em>prepare</em>, one would refresh oneself with the flateness property of projective
+		and refresh the vocabulary we introduced last session. -->
+	<h4>Meetings minutes</h4>
+	<p>
+		You can find here <a href= "/kleine_seminar/notes/hecke_notes_F2019.pdf">the (uncompleted) notes of the meeting</a>. The material has probably a higher chance of being error-filled here,
+		but the margins content some hastily scribbled snippets of the discussion we had in the seminar and might prove interesting! 
+	</p>
+	
+	
+	
+	
+	
+	<h3> Contact </h3>
+	If you have inquiries about the Kleine seminar, the easiest would be to contact me with the information below, but contacting 
+	any other member is also a valid strategy!
+	<!-- 
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	  	{% if post.category == 'blog' %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	   {% endif %} 
+	  {% endfor %}
+	</ul>
+ -->
