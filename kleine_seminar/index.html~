@@ -17,30 +17,88 @@ We will follow Humphrey's Representations of Semisimple Lie algebras in the BGG 
 			(see for example this group in Columbia that had the same idea 
 			<a href="https://www.math.columbia.edu/~hliu/seminars/s20-category-o.html">https://www.math.columbia.edu/~hliu/seminars/s20-category-o.html</a> ). </li>
 </p>
+
+<p>We will try to keep the session streamlined: doing only the proofs that add something, maybe do some proof for $\mathfrak{sl}_2$ or $\mathfrak{sl}_3$ if it is not trivial. 
+The audience will try to skim through the material beforehand </p>
 	
 
-	<h4>Next meeting: Thursday 14th of January, 14:00 CET, organisational session   </h4>
+	<h4>Next meeting: Tuesday 16th February 15:00 CET discussion period on Chapter 2 and beginning of Chapter 3 by Sam Claerebout </h4>
 	
 	<p> 
-	We will discuss the book, divide the sections amongst the present members and decide of a recurring date for our meetings.
+	Informal discussion about what we like in Chapter 2 and the beginning of Chapter 3 by Sam. 
 	</p>
 		
 		
 		
+	<h4>Tentative schedule</h4>
+<p>The seminar's moment starting February should be the Tuesdays at 15:00 CET. For now, the schedule looks like below</p>	
 	
-	
+	<table>
+<tr>
+<td>Chapter 0</td>
+<td>Roy Oste</td>
+<td>21/01/2021</td>
+</tr>
+<tr>
+<td>Chapter 1</td>
+<td>Alexis Langlois-Rémillard</td>
+<td>26/01/2021, 02/02/2021, 09/02/2021</td>
+</tr>
+<tr>
+<td>Chapter 2</td>
+<td>Discussion, everyone</td>
+<td>16/02/2021</td>
+</tr>
+<tr>
+<td>Chapter 3</td>
+<td>Sam Claerebout</td>
+<td>16/02/2021, 23/02/2021,  02/03/2021</td>
+</tr>
+<tr>
+<td>Chapter 4</td>
+<td>Asmus Bisbo</td>
+<td>16/03/2021, 23/03/2021</td>
+</tr>
+<tr>
+<td>Chapter 5</td>
+<td>Hadewijch De Clercq</td>
+<td>30/03/2021, 06/04/2021</td>
+</tr>
+<tr>
+<td>Chapter 6</td>
+<td>Marcelo De Martino</td>
+<td>13/04/2021, 20/04/2021</td>
+</tr>
+<tr>
+<td>Chapter 7</td>
+<td>Sigiswald Barbier</td>
+<td>27/04/2021, 04/05/2021, 11/05/2021</td>
+</tr>
+<tr>
+<td>Chapter 8</td>
+<td>Roy?/Marcelo?</td>
+<td>18/05/2021, 25/05/2021</td>
+</tr>
+<tr>
+<td>Chapter 9-13</td>
+<td>Up to the taking, if any volunteer, time permitting</td>
+</tr>
+</table>
 	
 	<h4>Past meeting in the Winter 2021 semester</h4>
 		<u1>
-		
+		<li>14-01-2021: Organisational session</li>
+		<li>21-01-2021: Chapter 0 A short review of Semisimple Lie algebras by Roy Oste. <a href="/kleine_seminar/notes/2021-01-21_chap0.pdf">Notes of the meeting</a>
+		<li>26-01-2021: Chapter 1 Basics of category $\mathcal{O}$, Part I by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-01-21_chap1_1.pdf">Notes of the meeting</a>
+		<li>02-02-2021: Chapter 1 Basics of category $\mathcal{O}$, Part II by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-02-02_chap1_2.pdf">Notes of the meeting</a>
+		<li>09-02-2021: Chapter 1 Basics of category $\mathcal{O}$, Part III by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-02-09_chap1_9.pdf">Notes of the meeting</a>
 		</u1>
 
 	
 	
 	<h4>Meetings minutes</h4>
 	<p>
-		You can find here <a href= "/kleine_seminar/notes/">the note of the meeting</a>. The material has probably a high chance of being error-filled here,
-		but the margins content some hastily scribbled snippets of the discussion we had in the seminar and might prove interesting!
+		You can find here <a href= "/kleine_seminar/notes/">the note of the meeting</a> if provided by the speaker. 
 	</p>
 	
 	
@@ -48,13 +106,9 @@ We will follow Humphrey's Representations of Semisimple Lie algebras in the BGG 
 	
 	<p>If you have inquiries about the Kleine seminar, the easiest would be to contact me with the information below, but contacting 
 	any other member is a valid strategy!</p>
-	<!-- 
-		The source is Savage, A. String diagrams and categorification <a href="https://arxiv.org/abs/1806.06873">arxiv:1806.06873</a>. section 5 and 
-		Savage Introduction to categorification. <a href="https://arXiv.org/abs/1401.6037">arXiv:1401.6037</a> chapter 2-3.
-	12-02-2020
-	Monoidal categories are introduced with a view towards presenting some categories linked to common mathematical objects (symmetric group and Hecke algebras) 
-		via generators and relations in a monoidal category. The source is Savage, A. String diagrams and categorification <a href="https://arxiv.org/abs/1806.06873">arxiv:1806.06873</a>.
-	<ul class="posts">
+	<!--
+	
+	meeting 1 : We cover the zeroth chapter of the book reviewing notations and material from semisimple Lie algebras.
 
 	  {% for post in site.posts %}
 	  	{% if post.category == 'blog' %}
