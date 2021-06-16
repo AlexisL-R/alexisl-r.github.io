@@ -21,14 +21,14 @@ title: Alexis Langlois-Rémillard
 		<p> 
 			I am now working on the algebraic underlying structures of operator algebras. The mathematics areas involved are plenty
 			but I concentrate on representation theory and Lie superalgebras. A long-term goal is to investigate the potential of diagrammatic 
-			algebras in this topic via the Hecke algebras framework and quantum algebras. More detailed introductory notes to come in my <a href="/research_notes/">research notes</a>. 
+			algebras in this topic via the Hecke algebras framework and quantum algebras. I try to give an overview of my articles in my <a href="/research_notes/">research notes</a>. 
 		</p>
 	<h3>Publications and preprints</h3>
 		<h4> Scientific articles</h4>
 		<u1>
 			<li>
 				(preprint) De Bie, H., Langlois-Rémillard, A., Oste, R., and Van der Jeugt, J. (2020) Finite-dimensional representations of the symmetry algebra of the dihedral Dunkl-Dirac operator.
-				<a href="https://arxiv.org/abs/2010.03381">arXiv</a> 			
+				<a href="https://arxiv.org/abs/2010.03381">arXiv:2010.03381</a> 			
 			</li>			
 			
 			<li> 
@@ -40,20 +40,20 @@ title: Alexis Langlois-Rémillard
 		<u1>
 			<li>
 				(preprint) Langlois-Rémillard, A. (2020) Deforming algebras with anti-involution via twisted associativity. Submitted as contribution for the <em>Proceedings of the International
-				conference on stochastic processes and algebraic structures, volume II: algebraic structures and applications (Västerâs, Sweden, October 2019),</em> ed. Sergei Silvestrov. 21 p. 
-				<a href="/papers/ALR_Vasteras_2019.pdf">submitted preprint</a>
+				conference on stochastic processes and algebraic structures, volume II: algebraic structures and applications (Västerås, Sweden, October 2019),</em> ed. Sergei Silvestrov. 21 p. 
+				<a href="https://arxiv.org/abs/2106.01855">arXiv:2106.01855</a>
 			</li>			
 			<li>
 				Langlois-Rémillard, A., Oste, R. (2020) An Exceptional Symmetry Algebra for the 3D Dirac–Dunkl Operator. 
 				In: Dobrev V. (ed) Lie Theory and Its Applications in Physics. LT Varna 2019. Springer Proceedings in Mathematics & Statistics, 
-				vol 335, pp 399-405. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-15-7775-8_30">doi:10.1007/978-981-15-7775-8_30</a> and <a href="https://arxiv.org/abs/2009.13904">arXiv</a>
+				vol 335, pp 399-405. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-15-7775-8_30">doi:10.1007/978-981-15-7775-8_30</a> and <a href="https://arxiv.org/abs/2009.13904">arXiv:2009.13904</a>
 			</li>
 			
 		</u1>
 		<h4> Popularization</h4>
 		<u1>
 			<li> 
-				Boutet V., Godin, J. and Langlois-Rémillard, A.(2017) Excursion typographique : La matrice des fontes, 
+				Boutet V., Godin, J. and Langlois-Rémillard, A. (2017) Excursion typographique : La matrice des fontes, 
 				<em>Accromath</em>, 12, pp. 26-29. <a href="http://accromath.uqam.ca/accro/wp-content/uploads/2017/09/Accromath_12_2.pdf">http://accromath.uqam.ca/archives/</a>
 			</li>
 		</u1>
@@ -64,6 +64,9 @@ title: Alexis Langlois-Rémillard
 	
 	<h3>News</h3>
 		<p>
+		2021-06-15 The Kleine seminar finished its Winter/Spring 2021 session and will start back in September 2021 on a subject to determine.		
+		</p>
+		<p>
 		2021-05-03 Ik ben officieel voor mijn B2-certificaat Nederlands geslaagd! I got my B2 certificat in Dutch!  
 		</p>
 		<p>
@@ -72,7 +75,6 @@ title: Alexis Langlois-Rémillard
 		<p>
 		2021-01-19 The Kleine seminar starts again for Winter 2021, we will cover Humphreys's book on the BGG category $\mathcal{O}$ for semisimple Lie algebras. More information in the <a href="/kleine_seminar">website</a>.
 		</p>		
-		
 		<p>
 		2020-10-07 We put our work <strong>Finite-dimensional representations of the symmetry algebra of the dihedral Dunkl-Dirac operator</strong> on arXiv (link <a href="https://arxiv.org/abs/2010.03381">2010.03381</a>)!
 		It goes over, as the title quite explicitly states, the representation of the symmetry algebra of a Dunkl deformation of the Dirac operator for the dihedral groups case. The symmetry algebra
@@ -120,13 +122,14 @@ title: Alexis Langlois-Rémillard
 	
 	<h3>Selected recent and future talks</h3>
 	<u1>		
+		<li> <em>Finite-dimensional representations of the 3D dihedral Dunkl-Dirac symmetry algebra</em>	Lie Theory and its application in physics XIV, online, June 2021</li>	
 		<li> <em>Finite-dimensional representations of the 3D dihedral Dunkl-Dirac symmetry algebra</em>	EOS meeting, online, 27 May 2021</li>	
 		<li> <em>Generalizing Deligne category via cobordisms, Khovanov's and Sazdanovic's approach</em> Clifford research group seminar, Ghent University, Online, April 2021		</li>
 		<li> <em>The symmetry algebra of the Dunkl-Dirac operator: the dihedral cases in three dimensions</em> Canadian Mathematical Society Winter Meeting, Online, December 2020</li>
 		<li> <em>The symmetry algebra of the three-dimensional dihedral Dunkl-Dirac equation</em> Clifford research group seminar, Ghent University, March 2020</li>
 		<li> <em>Cellular structure of seam algebras and avenues for deformation</em> International conference on stochastic processes and algebraic structures, Västerâs, November 2019</li>
 		<li> <em>Idempotence, cellularité et algèbres diagrammatiques</em> Seminar: representation theory of algebras, Université de Sherbrooke, November 2018</li>
-		<li> <em>Roots of unity and the representation theory of boundary seam algebras</em> Mathematical physics seminar, Université de Montréal, October 2018
+		<li> <em>Roots of unity and the representation theory of boundary seam algebras</em> Mathematical physics seminar, Université de Montréal, October 2018</li>
 	</u1>
 	
 	<h3>Public funding</h3>
