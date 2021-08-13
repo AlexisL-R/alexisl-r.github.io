@@ -1,0 +1,33 @@
+---
+layout: default
+title: Popularization
+---
+ <h1>{{ page.title }}</h1>
+	<p> 
+		Here, you will find a summary of the popularization projects I made. Most projects are in French, they will probably be translated at some point in the future. This future becomes nearer
+		if I know someone is interested in one of the project, so feel free to ask me!
+	</p>
+	
+	<h3><a href="/popularization/hyperbolique/">Géométrie hyperbolique</a></h3>
+	<p>
+		This pages contains the sources and material for a talk I gave for the Clubmath of Université de Montréal on 23-09-2020.
+		
+		Dans cette page se trouvent les références et le matériel pour mon exposé au Clubmath de l'Université de Montréal du 23-09-2020.	
+	</p>
+	
+	<h3>Huit dames pour un échiquier</h3>
+	<p>
+		Une vidéo de ma présentation au Clubmath de l'Université de Montréal le 28 novembre 2018 est disponible sur Youtube <a href="https://www.youtube.com/watch?v=3UIGO-izuDM">https://www.youtube.com/watch?v=3UIGO-izuDM</a>.
+		Je compte améliorer le concept et en faire quelque chose de récurrent.
+		
+		Les <a href="/popularization/echecs/ALR_2018-11-28-Clubmath.pdf">diapositives</a>.
+	</p>
+	
+	<h3>Typographie</h3>
+	<p>
+		Véronique Boutet, Jonathan Godin et moi avons fait à l'été 2017 un article de vulgarisation pour expliquer les dessous de la typographie mathématique. La référence est plus bas.
+	</p>
+	<p>        
+		Boutet V., Godin, J. and Langlois-Rémillard, A.(2017) Excursion typographique : La matrice des fontes, 
+		<em>Accromath</em>, 12, pp. 26-29. <a href="http://accromath.uqam.ca/accro/wp-content/uploads/2017/09/Accromath_12_2.pdf">http://accromath.uqam.ca/archives/</a> 	
+	</p>
