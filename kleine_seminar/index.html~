@@ -12,106 +12,93 @@ title: Kleine seminar
 	</p>
 
 
-	<h4>Next meeting: in end September!</h4>
+	<h4>Next meeting: Week of 11th October !</h4>
 	
 	<p> 
-	We will decide what to do next in September and start in October. For now three possibilities are: finishing Humphreys Chapter 8; do the other suggestion of last year, to follow 
-	the book "Crystal bases. Representation and combinatorics" by Daniel Bump and Anne Schilling, or to follow Tensor Category by Etingof et al. Other suggestions are welcomed, and I keep a folder of ideas in 
-	<a href="</kleine_seminar/future/">the future page</a>.
+	Kieran will break the ice with a small freshener on Chap 1 and the beginning of Chapter 2.
 	</p>
 			
 	
-<h4>Last session subject</h4>
+<h4>Resources for the seminar</h4>
 <p> 
-We followed Humphrey's Representations of Semisimple Lie algebras in the BGG category $\mathcal{O}$, <a href="https://zbmath.org/?q=an%3A1177.17001">zbMATH's review</a>
-			(see for example this group in Columbia that had the same idea 
-			<a href="https://www.math.columbia.edu/~hliu/seminars/s20-category-o.html">https://www.math.columbia.edu/~hliu/seminars/s20-category-o.html</a> ). 
-			See also the <a href="/kleine_seminar/notes/BGG-differ-operators.pdf">original BGG paper</a>.</li>
+
+Etingof, Gelaki, Nikshych and Ostrik have written recently a book on tensor categories (see <a href="https://pages.uoregon.edu/vostrik/">https://pages.uoregon.edu/vostrik/</a> and navigate to the book).
+		In the preface, they outline a possible one-semester course that we could do to cover this exciting material. Here is it with minor touch
+<table>
+<tr>
+<td>Chapter 1</td>
+<td>Chapter 2</td>
+<td>Chapter 3</td>
+<td>Chapter 4</td>
+<td>Chapter 5</td>
+<td>Chapter 6</td>
+<td>Chapter 7</td>
+<td>Chapter 8</td>
+<td>Chapter 9</td>
+</tr>
+<tr>
+<td>Homework and brief recap (1.1 to 1.9)</td>
+<td>2.1 to 2.10</td>
+<td>Skip unless needed</td>
+<td>4.1 to 4.9</td>
+<td>5.1 to 5.6, more if wanted</td>
+<td>6.1 to 6.3</td>
+<td>7.1 to 7.12</td>
+<td>8.1 to 8.14</td>
+<td>9.1 to 9.9 with 9.12</td>
+</tr>
+</table>
+
+Do not hesitate to use other sources such as Deligne's work, Mac Lane, Etingof and Ostrik, Joyal or Drinfeld etc.
 </p>
 	
 	
-<h4>Spring and Winter 2021 schedule</h4>
+<h4>Fall 2021 prelim schedule</h4>
 	<table>
 <tr>
-<td>Chapter 0</td>
-<td>Roy Oste</td>
-<td>21/01/2021</td>
-</tr>
-<tr>
-<td>Chapter 1</td>
-<td>Alexis Langlois-Rémillard</td>
-<td>26/01/2021, 02/02/2021, 09/02/2021</td>
-</tr>
-<tr>
-<td>Chapter 2</td>
-<td>Discussion, everyone</td>
-<td>16/02/2021</td>
-</tr>
-<tr>
-<td>Chapter 3</td>
-<td>Sam Claerebout</td>
-<td>16/02/2021, 23/02/2021,  02/03/2021, 09/03/2021</td>
+<td>A review of Chapter 1, and Chapter 2</td>
+<td>Kieran Calvert and Asmus Bisbo</td>
+<td>--/10/2021, --/10/2021</td>
 </tr>
 <tr>
 <td>Chapter 4</td>
-<td>Asmus Bisbo</td>
-<td>16/03/2021, 23/03/2021, 30/03/2021</td>
+<td>Sam Claerabout and Jari Desmet</td>
+<td>--/10/2021, --/11/2021</td>
 </tr>
 <tr>
-<td>Easter break</td>
+<td>Chapter 5</td>
+<td>Hadewijch De Clercq and Andrea Hurtado/td>
+<td>--/11/2021, --/11/2021</td>
+</tr>
+<tr>
+<td>Chapter 6</td>
+<td>Alexis L-R</td>
+<td>--/11/2021</td>
+</tr>
+<tr>
+<td>Chapter 7</td>
+<td>Sigiswald Barbier and Marcelo De Martino</td>
+<td>--/12/2021, --/12/2021, --/12/2021</td>
+</tr>
+<tr>
+<td>More?</td>
 <td>-</td>
 <td>06/04/2021, 13/04/2021</td>
 </tr>
 <tr>
-<td>Chapter 5</td>
-<td>Hadewijch De Clercq</td>
-<td>20/04/2021, 27/04/2021,04/05/2021 </td>
-</tr>
-<tr>
-<td>Chapter 6</td>
-<td>Marcelo De Martino</td>
-<td> 11/05/2021, 18/05/2021,25/05/2021</td>
-</tr>
-<tr>
-<td>Chapter 7</td>
-<td>Sigiswald Barbier</td>
-<td>01/06/2021,08/06/2021,15/06/2021</td>
-</tr>
-<tr>
 <td>Chapter 8</td>
 <td>to see next semester</td>
-<td>Fall 2021</td>
+<td>Spring 2022?</td>
 </tr>
 <tr>
-<td>Chapter 9-13</td>
-<td>Up to the taking, if any volunteer, time permitting</td>
+<td>Chapter 9</td>
+<td>Spring 2022?</td>
 </tr>
 </table>
 	
-	<h4>Past meeting in the Winter 2021 semester</h4>
+	<h4>Past meetings in the Fall 2021 semester</h4>
 		<u1>
-		<li>14-01-2021: Organisational session</li>
-		<li>21-01-2021: Chapter 0 A short review of Semisimple Lie algebras by Roy Oste. <a href="/kleine_seminar/notes/2021-01-21_chap0.pdf">Notes of the meeting</a>
-		<li>26-01-2021: Chapter 1 Basics of category $\mathcal{O}$, Part I by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-01-26_chap1_1.pdf">Notes of the meeting</a>
-		<li>02-02-2021: Chapter 1 Basics of category $\mathcal{O}$, Part II by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-02-02_chap1_2.pdf">Notes of the meeting</a>
-		<li>09-02-2021: Chapter 1 Basics of category $\mathcal{O}$, Part III by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-02-09_chap1_3.pdf">Notes of the meeting</a>
-		<li>16-02-2021: Chapter 2 Finite-dimensional case <a href="/kleine_seminar/notes/2021-02-16_chap2.pdf">Asmus's notes</a> and Chapter 3: Methods of category $\mathcal{O}$ part I by Sam Claerebout.
-		<a href="/kleine_seminar/notes/2021-02-16_chap3_1.pdf">Notes of the meeting</a>
-		<li>23-02-2021: Chapter 3 Mathods of category $\mathcal{O}$ Part II by Sam Claerebout. <a href="/kleine_seminar/notes/2021-02-23_chap3_2.pdf">Notes of the meeting</a></li>
-		<li>02-03-2021: Chapter 3 Mathods of category $\mathcal{O}$ Part III by Sam Claerebout. <a href="/kleine_seminar/notes/2021-03-02_chap3_3.pdf">Notes of the meeting</a></li>
-		<li>09-03-2021: Chapter 3 Mathods of category $\mathcal{O}$ Part IV by Sam Claerebout. <a href="/kleine_seminar/notes/2021-03-09_chap3_4.pdf">Notes of the meeting</a></li>
-		<li>16-03-2021: Chapter 4 Highest weight modules I Part I by Asmus Bisbo. <a href="/kleine_seminar/notes/2021-03-16_chap4_1.pdf">Notes of the meeting</a></li>
-		<li>23-03-2021: Chapter 4 Highest weight modules I Part II by Asmus Bisbo. <a href="/kleine_seminar/notes/2021-03-30_chap4_2-3.pdf">Notes of the meeting (include 30-03)</a></li>
-		<li>30-03-2021: Chapter 4 Highest weight modules I Part III by Asmus Bisbo. <a href="/kleine_seminar/notes/2021-03-30_chap4_2-3.pdf">Notes of the meeting (include (23-03)</a></li>
-		<li>20-04-2021: Chapter 5 Highest weight modules II Part I by Hadewijch De Clercq. <a href="/kleine_seminar/notes/2021-05-04_chap5.pdf">Notes of the meetings</a></li>
-		<li>27-04-2021: Chapter 5 Highest weight modules II Part II by Hadewijch De Clercq. <a href="/kleine_seminar/notes/2021-05-04_chap5.pdf">Notes of the meetings </a></li>
-		<li>04-05-2021: Chapter 5 Highest weight modules II Part III by Hadewijch De Clercq. <a href="/kleine_seminar/notes/2021-05-04_chap5.pdf">Notes of the meetings</a></li>
-		<li>11-05-2021: Chapter 6 Extensions and resolutions Part I by Marcelo De Martino. <a href="/kleine_seminar/notes/2021-05-11_chap6.pdf">Notes of the meetings</a></li>
-		<li>18-05-2021: Chapter 6 Extensions and resolutions Part II by Marcelo De Martino. <a href="/kleine_seminar/notes/2021-05-11_chap6.pdf">Notes of the meetings</a></li>
-		<li>25-05-2021: Chapter 6 Extensions and resolutions Part III by Marcelo De Martino. <a href="/kleine_seminar/notes/2021-05-11_chap6.pdf">Notes of the meetings</a></li>
-		<li>01-06-2021: Chapter 7 Translation functors Part I by Sigiswald Barbier <a href="/kleine_seminar/notes/2021-06-01_chap7_1.pdf">Notes of the meeting</a></li>
-		<li>08-06-2021: Chapter 7 Translation functors Part II by Sigiswald Barbier <a href="/kleine_seminar/notes/2021-06-08_chap7_2.pdf">Notes of the meeting</a></li>
-		<li>15-06-2021: Chapter 7 Translation functors Part III by Sigiswald Barbier <a href="/kleine_seminar/notes/2021-06-15_chap7_3.pdf">Notes of the meeting</a></li>
+		<li>28-09-2021: Organisational session</li>
 		</u1>
 
 	
