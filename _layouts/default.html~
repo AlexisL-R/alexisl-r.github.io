@@ -24,9 +24,10 @@
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/cv/alr_cv.pdf">CV</a></li>
-					<li><a href="/popularization">Popularization</a></li>		        		
+				<li><a href="/popularization/">Popularization</a></li>		        		
 	        		<li><a href="/research_notes/">Research notes</a></li>
 	        		<li><a href="/blog/">Blog</a></li>
+				<li><a href="/kleine_seminar/">Kleine seminar</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
@@ -37,6 +38,7 @@
 			<footer>
 	    		<ul>
 	        		<li>Alexis Langlois-Rémillard</li>
+					<li><span style="font-weight:normal">Pronouns: he/him</span></li>
 					<li><a href="mailto:alexis.langloisremillard@ugent.be">alexis.langloisremillard@ugent.be</a></li>
 	        		<li><a href="https://github.com/AlexisL-R">github.com/AlexisL-R</a></li>
 				</ul>
