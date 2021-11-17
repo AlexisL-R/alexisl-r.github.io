@@ -4,6 +4,6 @@ title: Wiskundige schaak
 ---
  <h1>{{ page.title }}</h1>
 	<p>
-	Mijn PRIME beamer is <a href="/popularization/echecs/2021-11-18_PRIME.pdf">hier</a>. En je mag ook mijn <a href:"/popularization/echecs/8damesproblemen.ipynb">SageMath notebook</a> 
+	Mijn PRIME beamer is <a href="/popularization/echecs/2021-11-18_PRIME.pdf">hier</a>. En je mag ook mijn <a href:"/popularization/echecs/achtdamesproblemen.ipynb">SageMath notebook</a> 
 	met de opgaven.
 	</p>
