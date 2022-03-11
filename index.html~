@@ -26,6 +26,10 @@ title: Alexis Langlois-Rémillard
 		<h4> Scientific articles</h4>
 		<u1>
 			<li>
+				(preprint) De Bie, H., Langlois-Rémillard, A., Oste, R., and Van der Jeugt, J. (2022) Generalised symmetries and bases for Dunkl monogenics. 18 p.
+				 <a href="https://arxiv.org/abs/2203.01204">arXiv:2203.01204</a>
+			</li>	
+			<li>
 				De Bie, H., Langlois-Rémillard, A., Oste, R., and Van der Jeugt, J. (2022) Finite-dimensional representations of the symmetry algebra of the dihedral Dunkl-Dirac operator, <em>Journal of Algebra</em> 591: 170-216,
 				(Online at <a href="https://arxiv.org/abs/2010.03381">arXiv:2010.03381</a> <a href="https://doi.org/10.1016/j.jalgebra.2021.09.025">DOI:10.1016/j.jalgebra.2021.09.025</a>)			
 			</li>			
@@ -72,6 +76,15 @@ title: Alexis Langlois-Rémillard
 	
 	
 	<h3>News</h3>
+		<p>
+			2022-03-03 Our last preprint <strong>Generalised symmetries and bases for Dunkl monogenics</strong> is out on arXiv (<a href="https://arxiv.org/abs/2203.01204">arXiv:2203.01204</a>).
+			As one might suspect from the title, we construct bases for Dunkl monogenics for any reflection group using certain generalised symmetries of the Dunkl--Dirac operator.
+		</p>
+		<p>
+		 2022-02-05 La première partie d'une série sur des problèmes échico-mathématiques est maintenant disponible sur Accromath! (<a href="https://accromath.uqam.ca/2022/02/huit-dames-et-un-echiquier/">Lien</a>)
+		 Elle porte sur le fameux problème des huit dames, sa généralisation aux plus grands échiquiers et sur quelques notions d'algorithmes qu'il a inspirées. Le second volet, écrit conjointement avec Charles Senécal,
+		 portera sur ce qui arrive lorsque la géométrie de l'échiquier change radicalement.  
+		</p>
 		<p>
 		2022-01-17 The Kleine seminar will start back in February to finish EGNO's Tensor categories visit its <a href="/kleine_seminar">website</a>.
 		</p>	
