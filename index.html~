@@ -8,7 +8,7 @@ title: Alexis Langlois-Rémillard
 	<hr> 
 		<p> 
 			Since April 2019, I am working at Universiteit Gent in the broad topic of representation 
-			theory of algebras with a focus on operator algebras and application to mathematical physics. My supervisors are
+			theory of algebras with a focus on symmetry algebra of Dirac-like operators and applications to mathematical physics. My supervisors are
 			Joris Van der Jeugt and Hendrik De Bie.
 		</p>
 		<p>			
@@ -19,8 +19,9 @@ title: Alexis Langlois-Rémillard
 	
 	<h3>Research interests </h3>
 		<p> 
-			I am now working on the algebraic underlying structures of operator algebras, specifically now on the Dunkl-Dirac symmetry algebra. I concentrate on representation theory 
-			and Lie superalgebras. I also enjoy a lot diagrammatic algebras and diagrammatic calculus. I try to give an overview of my articles in my <a href="/research_notes/">research notes</a>. 
+			I am interested in rational Cherednik algebras, reflection groups, Dunkl operators, Dirac-like operators and (deformations of) Lie (super)algebras. 
+			I approach these subjects via representation theory. I also enjoy a lot diagrammatic algebras and categories and diagrammatic calculus.
+			 <!--I try to give an overview of my articles in my <a href="/research_notes/">research notes</a>-->. 
 		</p>
 	<h3><a href="/publications/">Publications and preprints</a></h3>
 		<h4> Scientific articles</h4>
@@ -76,12 +77,20 @@ title: Alexis Langlois-Rémillard
 	
 	
 	<h3>News</h3>
+	
+		<p>
+			2022-04-04 I will take part in the special month on Non-commutative algebra, representation theory and special functions in Montréal (23 May to June 10).
+		</p>
+		<p>
+			2022-04-02 I will present my research in 5 minutes max along with my fellow PhD students at PRIMES new event <a href="http://prime.ugent.be/activiteiten/2022-04-19">Doctoraatstudenten aan het woord</a>
+			 on 19th April in Sterre S25, come if you want to know what the UGent maths PhD students are doing! 		
+		</p>
 		<p>
 			2022-03-03 Our last preprint <strong>Generalised symmetries and bases for Dunkl monogenics</strong> is out on arXiv (<a href="https://arxiv.org/abs/2203.01204">arXiv:2203.01204</a>).
 			As one might suspect from the title, we construct bases for Dunkl monogenics for any reflection group using certain generalised symmetries of the Dunkl--Dirac operator.
 		</p>
 		<p>
-		 2022-02-05 La première partie d'une série sur des problèmes échico-mathématiques est maintenant disponible sur Accromath! (<a href="https://accromath.uqam.ca/2022/02/huit-dames-et-un-echiquier/">Lien</a>)
+		 2022-02-05 La première partie d'une série sur des problèmes échico-mathématiques est maintenant à lire dans la revue Accromath! (<a href="https://accromath.uqam.ca/2022/02/huit-dames-et-un-echiquier/">Lien</a>)
 		 Elle porte sur le fameux problème des huit dames, sa généralisation aux plus grands échiquiers et sur quelques notions d'algorithmes qu'il a inspirées. Le second volet, écrit conjointement avec Charles Senécal,
 		 portera sur ce qui arrive lorsque la géométrie de l'échiquier change radicalement.  
 		</p>
@@ -156,7 +165,9 @@ title: Alexis Langlois-Rémillard
 	</u1>
 	
 	<h3>Selected recent and future talks</h3>
-	<u1>		
+	<u1>
+		<li> Presentation for a special day in honor of Yvan Saint Aubin, Montréal, October 2022</li>
+		<li> A poster at the PhD day of the Belgian Mathematical society, Liège, 13 May 2022</li>		
 		<li> <em>Bases for Dunkl monogenics by generalised symmetries</em> Clifford research group seminar, Ghent University, Online, February 2022</li>
 		<li> <em>Finite-dimensional representations of the 3D dihedral Dunkl-Dirac symmetry algebra</em>	Lie Theory and its application in physics XIV, online, June 2021</li>	
 		<li> <em>Finite-dimensional representations of the 3D dihedral Dunkl-Dirac symmetry algebra</em>	EOS meeting, online, 27 May 2021</li>	
