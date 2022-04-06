@@ -1,9 +1,34 @@
 ---
 layout: default
-title: Wiskundige schaak 
+title: Wiskundige schaak, Mathematical chess, Échecs mathématiques
 ---
  <h1>{{ page.title }}</h1>
 	<p>
 	Mijn PRIME beamer is <a href="/popularization/echecs/2021-11-18_PRIME.pdf">hier</a>. En je mag ook mijn <a href="/popularization/echecs/achtdamesproblemen.ipynb">SageMath notebook</a> 
-	met de opgaven.
+	met de opgaven, ook in <a href="/popularization/echecs/8Dames_opgaven.pdf">pdf versie</a>.
 	</p>
+
+<h2>Collection of mathematical chess problem</h2>
+<p>
+	Along the years, I collected some mathematically inspired chess problems and created a few activities around chess and mathematics. I am trying to keep them all in one place. 
+	You can find them in a draft of a booklet below. Feel free to have a look; contact me if you want to contribute, or if you have comments. It will take some time before it is final, if it ever
+	becomes finalised, but I will try to update it from time to time when I find new problems  
+</p>
+<h3>Current version: 01 from 2022-04-06</h3>	
+<p>	
+	<a href="/popularization/echecs/2022-04_ALR_Queens_of_the_chessboards.pdf">Queens of the chessboards</a>. 
+</p>
+
+<h3>Changelog</h3>
+<li>
+2022-04-06: First version put online. Contains the translation of two articles written for the Québec magazine <a href="https://accromath.uqam.ca/2022/02/editorial-vol-17-1-hiver-printemps-2022/">
+Accromath</a>. 
+</li>
+
+<h3>Future updates</h3>
+<li>
+Add the problem of the PRIME problem-solving avond to the document
+</li>
+<li>
+Add a section about the project with Toon Baeyens on generating interesting solitaire chess position.
+</li>
