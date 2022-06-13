@@ -3,7 +3,179 @@ layout: kleine
 title: Past subjects
 ---
  <h1>{{ page.title }}</h1>
+<h2> Fall 2021 and Spring 2021</h2>
+
+
+<h4>Resources for the seminar</h4>
+<p> 
+
+Etingof, Gelaki, Nikshych and Ostrik have written recently a book on tensor categories (see <a href="https://pages.uoregon.edu/vostrik/">https://pages.uoregon.edu/vostrik/</a> and navigate to the book).
+		In the preface, they outline a possible one-semester course that we could do to cover this exciting material. Here is it with minor touch:
+<table>
+<tr>
+<td>Chapter 1</td><td>Homework and brief recap (1.1 to 1.9)</td>
+</tr>
+<tr>
+<td>Chapter 2</td><td>2.1 to 2.10</td>
+</tr>
+<tr>
+<td>Chapter 3</td><td>Skip unless needed</td>
+</tr>
+<tr>
+<td>Chapter 4</td><td>4.1 to 4.9</td>
+</tr>
+<tr>
+<td>Chapter 5</td><td>5.1 to 5.6, more if wanted</td>
+</tr>
+<tr>
+<td>Chapter 6</td><td>6.1 to 6.3</td>
+</tr>
+<tr>
+<td>Chapter 7</td><td>7.1 to 7.12</td>
+</tr>
+<tr>
+<td>Chapter 8</td><td>8.1 to 8.14</td>
+</tr>
+<tr>
+<td>Chapter 9</td><td>9.1 to 9.9 with 9.12</td>
+</tr>
+</table>
+
+Do not hesitate to use other sources such as Deligne's work, Mac Lane, Etingof and Ostrik, Joyal or Drinfeld etc.
+</p>
+
+
+
+	
+<h4>Winter 2022 schedule</h4>
+	<table>
+<tr>
+<td>Review of previous meetings</td>
+<td>Gert Vercleyen</td>
+<td>14/02/2022</td>
+</tr>
+<tr>
+<td>Chapter 8 part I (8,1--8.5)</td>
+<td>Alexis Langlois-Rémillard</td>
+<td>21/02/2022</td>
+</tr>
+<tr>
+<td>Chapter 8 part II (8.6--8.9)</td>
+<td>Michiel Smet</td>
+<td>28/02/2022</td>
+</tr>
+<tr>
+<td>Chapter 8 part III (8.10--8.14)</td>
+<td>Sam Claerebout</td>
+<td>07/03/2022</td>
+</tr>
+<tr>
+<td>Chapter 9 part I (9.1--9.5)</td>
+<td>Jari Desmet</td>
+<td>21/03/2022</td>
+</tr>
+<tr>
+<td>Chapter 9 part II (9.6--9.9)</td>
+<td>Marcelo De Martino</td>
+<td> 28/03/—04/04/2022</td>
+</tr>
+<tr>
+<td>Chapter 9 part III (9.12)</td>
+<td>Sigiswald Barbier</td>
+<td>18?/04/2022</td>
+</tr>
+<tr>
+<td>Talks about "applications"</td>
+<td>Gert Vercleyen, Laurens Lootens and Jacob Bridgeman</td>
+<td>—/04/2022</td>
+</tr>
+</table>
+	
+
+
+<h2>Winter 2021</h2>	
+<h3>Category $\mathcal{O}$</h3>
+	<p> 
+		The third semester was on the book Representations of Semisimple Lie algebras in the BGG category $\mathcal{O}$ by Humphreys. The members were:
+	</p>
+	<u1> 
+		<li>Sigiswald Barbier, Postdoc UGent;</li>
+		<li>Asmus Bisbo, PhD candidate UGent;</li>
+		<li>Sam Claerebout, PhD candidate UGent;</li>
+		<li>Hadewijch De Clercq, PhD candidate UGent;</li> 
+		<li>Marcelo De Martino, Postdoc UGent, Oxford;</li>
+		<li>Tom De Medts, Prof UGent;</li>
+		<li>Alexis Langlois-Rémillard, PhD candidate UGent;</li>
+		<li>Roy Oste, Postdoc UGent;</li>
+		<li>Wouter van de Vijver, PhD candidate UGent.</li>
+	</u1>
+
+<h4> Meeting in the Winter 2021 semester</h4>
+<u1>
+		<li>14-01-2021: Organisational session</li>
+		<li>21-01-2021: Chapter 0 A short review of Semisimple Lie algebras by Roy Oste. <a href="/kleine_seminar/notes/2021-01-21_chap0.pdf">Notes of the meeting</a>
+		</li><li>26-01-2021: Chapter 1 Basics of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-6" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-7"><span class="texatom" id="MathJax-Span-8"><span class="mrow" id="MathJax-Span-9"><span class="mi" id="MathJax-Span-10" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-2">\mathcal{O}</script>, Part I by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-01-26_chap1_1.pdf">Notes of the meeting</a>
+		</li><li>02-02-2021: Chapter 1 Basics of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-11" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-12"><span class="texatom" id="MathJax-Span-13"><span class="mrow" id="MathJax-Span-14"><span class="mi" id="MathJax-Span-15" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-3">\mathcal{O}</script>, Part II by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-02-02_chap1_2.pdf">Notes of the meeting</a>
+		</li><li>09-02-2021: Chapter 1 Basics of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-4-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-16" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-17"><span class="texatom" id="MathJax-Span-18"><span class="mrow" id="MathJax-Span-19"><span class="mi" id="MathJax-Span-20" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-4">\mathcal{O}</script>, Part III by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/2021-02-09_chap1_3.pdf">Notes of the meeting</a>
+		</li><li>16-02-2021: Chapter 2 Finite-dimensional case <a href="/kleine_seminar/notes/2021-02-16_chap2.pdf">Asmus's notes</a> and Chapter 3: Methods of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-5-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-21" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-22"><span class="texatom" id="MathJax-Span-23"><span class="mrow" id="MathJax-Span-24"><span class="mi" id="MathJax-Span-25" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-5">\mathcal{O}</script> part I by Sam Claerebout.
+		<a href="/kleine_seminar/notes/2021-02-16_chap3_1.pdf">Notes of the meeting</a>
+		</li><li>23-02-2021: Chapter 3 Mathods of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-6-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-26" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-27"><span class="texatom" id="MathJax-Span-28"><span class="mrow" id="MathJax-Span-29"><span class="mi" id="MathJax-Span-30" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-6">\mathcal{O}</script> Part II by Sam Claerebout. <a href="/kleine_seminar/notes/2021-02-23_chap3_2.pdf">Notes of the meeting</a></li>
+		<li>02-03-2021: Chapter 3 Mathods of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-7-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-31" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-32"><span class="texatom" id="MathJax-Span-33"><span class="mrow" id="MathJax-Span-34"><span class="mi" id="MathJax-Span-35" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-7">\mathcal{O}</script> Part III by Sam Claerebout. <a href="/kleine_seminar/notes/2021-03-02_chap3_3.pdf">Notes of the meeting</a></li>
+		<li>09-03-2021: Chapter 3 Mathods of category <span class="MathJax_Preview" style="color: inherit; display: none;"></span><span class="MathJax" id="MathJax-Element-8-Frame" tabindex="0" style="position: relative;" data-mathml="<math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;><mrow class=&quot;MJX-TeXAtom-ORD&quot;><mi class=&quot;MJX-tex-caligraphic&quot; mathvariant=&quot;script&quot;>O</mi></mrow></math>" role="presentation"><nobr aria-hidden="true"><span class="math" id="MathJax-Span-36" style="width: 0.973em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.808em; height: 0px; font-size: 116%;"><span style="position: absolute; clip: rect(1.396em, 1000.79em, 2.447em, -1000em); top: -2.263em; left: 0em;"><span class="mrow" id="MathJax-Span-37"><span class="texatom" id="MathJax-Span-38"><span class="mrow" id="MathJax-Span-39"><span class="mi" id="MathJax-Span-40" style="font-family: MathJax_Caligraphic;">O</span></span></span></span><span style="display: inline-block; width: 0px; height: 2.263em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.088em; border-left: 0px solid; width: 0px; height: 0.968em;"></span></span></nobr><span class="MJX_Assistive_MathML" role="presentation"><math xmlns="http://www.w3.org/1998/Math/MathML"><mrow class="MJX-TeXAtom-ORD"><mi class="MJX-tex-caligraphic" mathvariant="script">O</mi></mrow></math></span></span><script type="math/tex" id="MathJax-Element-8">\mathcal{O}</script> Part IV by Sam Claerebout. <a href="/kleine_seminar/notes/2021-03-09_chap3_4.pdf">Notes of the meeting</a></li>
+		<li>16-03-2021: Chapter 4 Highest weight modules I Part I by Asmus Bisbo. <a href="/kleine_seminar/notes/2021-03-16_chap4_1.pdf">Notes of the meeting</a></li>
+		<li>23-03-2021: Chapter 4 Highest weight modules I Part II by Asmus Bisbo. <a href="/kleine_seminar/notes/2021-03-30_chap4_2-3.pdf">Notes of the meeting (include 30-03)</a></li>
+		<li>30-03-2021: Chapter 4 Highest weight modules I Part III by Asmus Bisbo. <a href="/kleine_seminar/notes/2021-03-30_chap4_2-3.pdf">Notes of the meeting (include (23-03)</a></li>
+		<li>20-04-2021: Chapter 5 Highest weight modules II Part I by Hadewijch De Clercq. <a href="/kleine_seminar/notes/2021-05-04_chap5.pdf">Notes of the meetings</a></li>
+		<li>27-04-2021: Chapter 5 Highest weight modules II Part II by Hadewijch De Clercq. <a href="/kleine_seminar/notes/2021-05-04_chap5.pdf">Notes of the meetings </a></li>
+		<li>04-05-2021: Chapter 5 Highest weight modules II Part III by Hadewijch De Clercq. <a href="/kleine_seminar/notes/2021-05-04_chap5.pdf">Notes of the meetings</a></li>
+		<li>11-05-2021: Chapter 6 Extensions and resolutions Part I by Marcelo De Martino. <a href="/kleine_seminar/notes/2021-05-11_chap6.pdf">Notes of the meetings</a></li>
+		<li>18-05-2021: Chapter 6 Extensions and resolutions Part II by Marcelo De Martino. <a href="/kleine_seminar/notes/2021-05-11_chap6.pdf">Notes of the meetings</a></li>
+		<li>25-05-2021: Chapter 6 Extensions and resolutions Part III by Marcelo De Martino. <a href="/kleine_seminar/notes/2021-05-11_chap6.pdf">Notes of the meetings</a></li>
+		<li>01-06-2021: Chapter 7 Translation functors Part I by Sigiswald Barbier <a href="/kleine_seminar/notes/2021-06-01_chap7_1.pdf">Notes of the meeting</a></li>
+		<li>08-06-2021: Chapter 7 Translation functors Part II by Sigiswald Barbier <a href="/kleine_seminar/notes/2021-06-08_chap7_2.pdf">Notes of the meeting</a></li>
+		<li>15-06-2021: Chapter 7 Translation functors Part III by Sigiswald Barbier <a href="/kleine_seminar/notes/2021-06-15_chap7_3.pdf">Notes of the meeting</a></li>
+</u1>	
+
+
+<h2>Winter 2020 and Fall 2020</h2>	
+<h3>Categorification</h3>
+	<p>
+The second semester of the Kleine seminar was dedicated to categorification. We took a hiatus due to Covid-19 and returned online in Fall 2020.
+ The members who partipated at least once during this strange double semester were:	
+	</p>
+	<u1> 
+		<li>Sigiswald Barbier, Postdoc UGent;</li>
+		<li>Asmus Bisbo, PhD candidate UGent;</li>
+		<li>Sam Claerebout, PhD candidate UGent;</li>
+		<li>Hadewijch De Clercq, PhD candidate UGent;</li> 
+		<li>Ali Guzmán Adán, Postdoc UGent;</li>
+		<li>Paulien Jansen, PhD candidate UGent;</li>
+		<li>Alexis Langlois-Rémillard, PhD candidate UGent;</li>
+		<li>Roy Oste, Postdoc UGent;</li>
+		<li>Wouter van de Vijver, PhD candidate UGent.</li>
+	</u1>
+	
+	<h4>Meetings in the Winter and Fall 2020 semester</h4>
+		<u1>
+		<li>15-12-2020 The categorification of $U_q(\mathfrak{sl}_2) part III by Hadewijch De Clercq <a href="/kleine_seminar/notes/2020-12-15-NotesKleineSeminar.pdf">Notes of the meeting</a></li>		
+		<li>08-12-2020 The categorification of $U_q(\mathfrak{sl}_2) part II by Hadewijch De Clercq <a href="/kleine_seminar/notes/2020-12-08-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>01-12-2020 The categorification of $U_q(\mathfrak{sl}_2) part I by Hadewijch De Clercq <a href="/kleine_seminar/notes/2020-12-01-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>24-11-2020 $S_n$ categorification by Alexis Langlois-Rémillard <a href="/kleine_seminar/notes/2020-11-24-NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>17-11-2020 Category $\mathcal{O}$ basis for $S_n$ categorification by Alexis Langlois-Rémillard <a href="/kleine_seminar/notes/2020-11-17-NotesKleineSeminar.pdf">Notes of the meeting</a> </li>
+		<li>03-11-2020 Strong categorification by Sigiswald Barbier <a href="/kleine_seminar/notes/2020-11-03-NotesKleinSeminar.pdf">Notes of the meeting</a> </li>
+		<li>27-10-2020 Strong categorification by Sigiswald Barbier <a href="/kleine_seminar/notes/2020-10-27-NotesKleineSeminar.pdf">Notes of the meeting</a> </li>
+		<li>20-10-2020 Fock space representation of the Heisenberg algebra by Sigiswald Barbier. <a href="/kleine_seminar/notes/20201020NotesKleineSeminar.pdf">Notes of the meeting</a></li>
+		<li>13-10-2020 Getting back in categorical shape by Alexis Langlois-Rémillard. <a href="/kleine_seminar/notes/Notes_ALR_13-10-2020.pdf">Notes of the meeting</a></li>
+		<li>11-03-2020 Trace decategorication by Sam Claerebout.</li>
+		<li>10-03-2020 Grothendieck rings and weak categorification by Paulien Jansen.</li>
+		<li>19-02-2020 Pivotal categories and string diagrams by Asmus Kj&#230;r Bisbo.</li>
+		<li>12-02-2020 Wouter van der Vijver on monoidal categories and string diagrams.</li>
+		</u1>
+
+	
 	<h2>Fall 2019-January 2020</h2>
+
+<h3>Hecke algebras and double affine Hecke algebras</h3>
 	<p>
 		This semester was the first one of the Kleine seminar. The members participating were:	
 	</p>
@@ -17,9 +189,9 @@ title: Past subjects
 		<li>Wouter van de Vijver, PhD candidate UGent.</li>
 	</u1>
 	
-		<h3>Hecke algebras and double affine Hecke algebras</h3>
+		
 	<p>
-		This semester topic wass on Hecke algebras with a view toward double affine Hecke algebras (DAHA). The reference we were following is the book Iwahori-Hecke Algebra
+		This semester topic was on Hecke algebras with a view toward double affine Hecke algebras (DAHA). The reference we were following is the book Iwahori-Hecke Algebra
 		and Schur Algebras of the Symmetric Group by Andrew Mathas and Pavel Etingof's course notes on DAHA. Some more references are in the shared files, only available
 		for UGent members. We completed in Mathas chapters 1 to 3 completely, part of chapter 4 and added some material on DAHA after.
 	</p>
@@ -47,6 +219,56 @@ title: Past subjects
 				complete list of non-equivalent simple modules in a cellular algebras (Theorem 2.16)</li>
 			<li>Thursday September 19th, Asmus Bisbo presented the first chapter of Mathas on introduction to Hecke algebras and some preliminary results on the symmetric group</li>
 		</u1>
+	
+	
+<!--	
+<h2>Present topic, Fall 2020 (October - December, continuing Winter 2020) </h2>
+	<h3>Categorification, an exemplar view</h3>
+<p>
+The subject for this semester is on categorification. It is an active research subject that regroup many approaches loosely tied together by an idea:
+that you can get more information by considering an higher algebraic structure for a mathematical object. The interest spreads from the physical community
+in the early 1990. 
+</p>
+<p>
+We hope to study the subject using examples as guiding line to navigate the subtleties. The main examples used will be (double affine) Hecke algebras, quantum groups
+and Lie algebras. The prerequisites to the subject are: 
+</p>
+<u1>
+	<li>Category theory basic vocabulary (Category, functors and natural transformation)</li>
+	<li>Bases in theory of Lie and associative algebras </li>
+	<li>What is an Hecke algebra (of type A)</li>
+</u1>
+
+<p>
+	There is not a single reference for this hydraesque subject. The main references proposed are:	
+</p>
+<u1>
+  <li>Lauda, A., 2011. An introduction to diagrammatic algebra and categorified quantum sl(2) 7 (review of ideas contained in other of his article) </li>
+  <li>Mazorchuk, V., 2011. Lectures on algebraic categorification. arXiv:1011.0144 [math].</li>
+  <li>Savage, A., 2018. String diagrams and categorification. arXiv:1806.06873 [math]. (Lecture notes from a mini course)</li>
+  <li>Savage, A., 2014. Introduction to categorification. arXiv:1401.6037 [math] (Lecture notes from a winter school)</li>
+  <li>Khovanov, M., Mazorchuk, V., Stroppel, C., 2009 A Brief Review of Abelian Categorifications 31. TAC.
+	  (A short overview of categorifications with plenty of examples, see: <a href="http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf">http://www.tac.mta.ca/tac/volumes/22/19/22-19.pdf</a></li>
+
+</u1>
+<p>
+and interesting articles include
+</p>
+<u1>
+	<li>Baez, J.C., Dolan, J., 1998. Categorification. arXiv:math/9802029.</li>
+  	<li>Brundan, J., 2013. Quiver Hecke algebras and categorification. arXiv:1301.5868 [math].</li>
+  	<li>Brundan, J., Savage, A., Webster, B., 2019. Heisenberg and Kac-Moody categorification. arXiv:1907.11988 [math].</li>
+   <li>Chuang, J., Rouquier, R., 2008. Derived Equivalences for Symmetric Groups and ${sl}_{2}$ -Categorification. Annals of Mathematics 167, 245–298.</li>
+   <li>Kleshchev, A., 2009. Representation Theory of Symmetric Groups and Related Hecke Algebras. arXiv:0909.4844 [math].</li>
+	<li>Khovanov, M., Lauda, A., 2009. A diagrammatic approach to categorification of quantum groups I. Represent. Theory 13, 309–347. <a href="https://doi.org/10.1090/S1088-4165-09-00346-X">10.1090/S1088-4165-09-00346-X</a></li>
+   <li>Lauda, A.D., 2010. A categorification of quantum $sl(2)$. Advances in Mathematics 225, 3327–3424. <a href="https://doi.org/10.1016/j.aim.2010.06.003">10.1016/j.aim.2010.06.003</a></li>
+	<li>Rosso, D., Savage, A., 2017. A general approach to Heisenberg categorification via wreath product algebras. Math. Z. 286, 603–655. <a href="https://doi.org/10.1007/s00209-016-1776-9">https://doi.org/10.1007/s00209-016-1776-9</a></li>
+   <li>Stroppel, C., 2005. Categorification of the Temperley-Lieb category, tangles, and cobordisms via projective functors. Duke Math. J. 126, 547–596. <a href="https://doi.org/10.1215/S0012-7094-04-12634-X">https://doi.org/10.1215/S0012-7094-04-12634-X</a></li>
+</u1>
+	
+	-->
+	
+	
 	
 <!-- 	
 
