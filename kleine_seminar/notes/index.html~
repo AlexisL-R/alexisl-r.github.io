@@ -3,6 +3,10 @@ layout: kleine
 title: Kleine seminar notes
 ---
  <h1>{{ page.title }}</h1>
+ 
+ <h3>Summer 2022</h3>
+ <li><a href="/kleine_seminar_notes_2022-07-05_Chap2.pdf">Notes of the 05-07-2022</a> with Alexis, Chapter 2</li>
+
 	
 	<h3>Winter 2022</h3>
 <li><a href="/kleine_seminar/notes/2022-01-31_Chap7_iii.pdf">Notes of the 31-01-2022 meeting</a> with Marcelo, Chapter 7 part III</li>
