@@ -5,14 +5,19 @@ title: Talks and conferences
  <h1>{{ page.title }}</h1>
 	
 	<h2>Future talks</h2>
-<li>
-October 2022, <b>Integrable systems, exactly solvable models and algebras</b>, CRM, Montréal,
-Representations and Jones-Wenzl elements of quotients of the affine Temperley-Lieb algebra
-</li>
-	<li>July 2022, <b>Group34</b>, Strasbourg, 
-Monogenic representations of the algebra of symmetries of the generalised Dirac operator</li>
+
+<li> 11 November 2022 <b>Imaginary</b> Ghent, Koninginnen op rare schaakborden</li>
+
+
 	
 	<h2>Invited talks</h2>
+		<li>
+		October 2022 <b>Combinatorics seminar Dartmouth college</b>, Dartmouth college, Hanover.
+		</li>
+		<li>
+		October 2022, <b>Integrable systems, exactly solvable models and algebras</b>, CRM, Montréal,
+		Representations and Jones-Wenzl elements of quotients of the affine Temperley-Lieb algebra
+		</li>
 			<li>
 				May 2021, <b>EOS meeting</b>, online, Finite-dimensional representations 
 				of the 3D dihedral Dunkl-Dirac symmetry algebra.
@@ -27,6 +32,8 @@ Monogenic representations of the algebra of symmetries of the generalised Dirac 
 			</li>			
 		
 	<h2>Contributed talks</h2>
+<li>July 2022, <b>Group34</b>, Strasbourg, 
+Monogenic representations of the algebra of symmetries of the generalised Dirac operator</li>
 <li> May 2022, <b>Non-commutative algebras, representation theory and special functions</b>, CRM, Montréal
 On the representation theory of a symmetry algebra associated to a generalised Dirac operator</li>
 <li> February 2022, <b>Clifford research seminar</b>, Universiteit Gent, Online,
@@ -39,7 +46,7 @@ Generalizing the Deligne category, Khovanov's and Sazdanovic's approach</li>
 The symmetry algebra of the Dunkl--Dirac operator: the dihedral cases</li>
 <li>March 2020, <b>Clifford research seminar</b>, Universiteit Gent,
 The symmetry algebra of the 3D dihedral Dunkl--Dirac equation</li>
-<li>November 2019,<b>\textbf{International Conference on Stochastic Processes and Algebraic Structures</b>, Västerås,
+<li>November 2019,<b>International Conference on Stochastic Processes and Algebraic Structures</b>, Västerås,
 Cellular structure of seam algebras and avenues for deformations </li>
 <li> June 2019, <b>Clifford research seminar</b>, Universiteit Gent,
 Representation theory and cellular structure of seam algebras </li>
@@ -55,6 +62,10 @@ Bratteli et les morphismes (semi-)simples de Temperley-Lieb</li>
 Algèbres de Temperley-Lieb, une approche cellulaire</li>
 
 	<h2>Workshop</h2>
+			<li>
+			October 2022 <b>Let's talk about outreach</b>, Les Diablerets, Switzerland, Gamification of 
+			research to reach out (with Érika Roldán, Christoph Müßig and Pete V)			
+			</li>
 			<li>
 			June 2018, <b>Canadian Mathematical Society Summer Meeting</b>, Fredericton,
 			Atelier d'enseignement actif (With Marie-Andrée, B. Langlois)
@@ -79,6 +90,12 @@ Algebras in the BGG Category $\mathcal{O}$</li>
 	
 	
 	<h2>Outreach and popularization talks</h2>
+	
+	
+	<li>
+28 September 2022, <b> Club mathématique de l'Université de Montréal</b>, UdeM, Montréal. 
+La domination, une histoire d'échecs.
+</li>
 	 
 <li>
 		November 2021, <b>PRIME problem-solving avond</b>, UGent,
