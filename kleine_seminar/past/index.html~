@@ -3,6 +3,85 @@ layout: kleine
 title: Past subjects
 ---
  <h1>{{ page.title }}</h1>
+ 
+ <h2>Winter 2022 seminar</h2>
+
+	<h4>Past meetings in the Winter 2022 semester</h4>
+		<u1>
+			<li>24-05-2022: Recap of the book by Gert Vercleyen</li>
+			<li>04-04-2022: Chapter 9 part III by Marcelo De Martino</li>	
+			<li>28-03-2022: Chapter 9 part II by Marcelo De Martino</li>	
+			<li>21-03-2022: Chapter 9 part I by Jari Desmet</li>				
+			<li>07-03-2022: Chapter 8 part III by Sam Claerebout</li>			
+			<li>28-02-2022: Chapter 8 part II by Michiel Smet</li>
+			<li>21-02-2022: Chapter 8 part I by Alexis Langlois-Rémillard</li>			
+			<li>14-02-2022: Recap of last semester by Gert Vercleyen</li>
+			<li>31-01-2022: Chapter 7 part III by Marcelo De Martino</li>
+		</u1>
+
+	
+	<h4>Past meetings in the Fall 2021 semester</h4>
+		<u1>
+			<li>16-12-2021: Chapter 7 part II by Marcelo De Martino</li>
+			<li>10-12-2021: Chapter 7 part I by Sigiswald Barbier</li>
+			<li>03-12-2021: Chapter 6 by Michiel Smet</li>				
+			<li>26-11-2021: Chapter 5 part II by Hadewijch De Clercq</li>				
+			<li>19-11-2021: Chapter 5 part I by Alexis Langlois-Rémillard</li>					
+			<li>12-11-2021: Chapter 4 part II by Jari Desmet</li>				
+			<li>05-11-2021: Chapter 4 part I by Sam Claerebout</li>	
+			<li>29-10-2021: Chapter 3 by Gert Vercleyen</li>	
+			<li>22-10-2021: Chapter 2 by Kieran Calvert</li>			
+			<li>15-10-2021: Chapter 1 by Kieran Calvert</li>
+			<li>28-09-2021: Organisational session</li>
+		</u1>
+
+	
+		
+<h4>Fall 2022 schedule</h4>
+	<table>
+<tr>
+<td>Review Ch.1, and Ch.2</td>
+<td>Kieran Calvert</td>
+<td>15/10/2021, 22/10/2021</td>
+</tr>
+<tr>
+<td>Chapter 3</td>
+<td>Gert Vercleyen</td>
+<td>29/10/2021</td>
+</tr>
+<tr>
+<td>Chapter 4</td>
+<td>Sam Claerabout and Jari Desmet</td>
+<td>05/11/2021, 12/11/2021</td>
+</tr>
+<tr>
+<td>Chapter 5</td>
+<td>Hadewijch De Clercq and Alexis Langlois-Rémillard</td>
+<td>19/11/2021, 26/11/2021</td>
+</tr>
+<tr>
+<td>Chapter 6</td>
+<td>Michiel Smet</td>
+<td>03/12/2021</td>
+</tr>
+<tr>
+<td>Chapter 7</td>
+<td>Sigiswald Barbier and Marcelo De Martino</td>
+<td> 10/12/2021, 17/12/2021</td>
+</tr>
+<tr>
+<td>Chapter 8</td>
+<td>to see next semester</td>
+<td>Spring 2022?</td>
+</tr>
+<tr>
+<td>Chapter 9</td>
+<td>to see next semester</td>
+<td>Spring 2022?</td>
+</tr>
+</table>
+	 
+ 
 <h2> Fall 2021 and Spring 2021</h2>
 
 
