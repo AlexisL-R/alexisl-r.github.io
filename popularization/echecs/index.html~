@@ -14,18 +14,24 @@ title: Wiskundige schaak, Mathematical chess, Échecs mathématiques
 	You can find them in a draft of a booklet below. Feel free to have a look; contact me if you want to contribute, or if you have comments. It will take some time before it is final, if it ever
 	becomes finalised, but I will try to update it from time to time when I find new problems  
 </p>
-<h3>Current version: 01 from 2022-04-06</h3>	
+<h3>Current version: 02 from 2022-09-06</h3>	
 <p>	
-	<a href="/popularization/echecs/2022-04_ALR_Queens_of_the_chessboards.pdf">Queens of the chessboards</a>. 
+	<a href="/popularization/echecs/2022-09_ALR_Queens_of_the_chessboards.pdf">Queens of the chessboards</a>. 
 </p>
 
 <h3>Changelog</h3>
+<li>
+2022-09-07: Second version with a few typos corrected.
+</li>
 <li>
 2022-04-06: First version put online. Contains the translation of two articles written for the Québec magazine <a href="https://accromath.uqam.ca/2022/02/editorial-vol-17-1-hiver-printemps-2022/">
 Accromath</a>. 
 </li>
 
 <h3>Future updates</h3>
+<li>
+Add a summary of research with Christoph Müßig and Érika Roldán on domination
+</li>
 <li>
 Add the problem of the PRIME problem-solving avond to the document
 </li>
