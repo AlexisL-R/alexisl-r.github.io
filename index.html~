@@ -26,12 +26,17 @@ title: Alexis Langlois-Rémillard
 			I am interested in rational Cherednik algebras, reflection groups, Dunkl operators, Dirac-like operators and (deformations of) Lie (super)algebras. 
 			I approach these subjects via representation theory. I also enjoy a lot diagrammatic algebras and categories, and diagrammatic calculus.
 			
-			I have also recently been interested in complexity theory problems and extremal combinatorics through chess-inspired mathematical problems.
+			I have also recently been interested in complexity theory and extremal combinatorics through chess-inspired mathematical problems.
 			 <!--I try to give an overview of my articles in my <a href="/research_notes/">research notes</a>-->
 		</p>
 	<h3><a href="/publications/">Publications and preprints</a></h3>
 		<h4> Scientific articles</h4>
 		<u1>
+		
+			<li>
+				(preprint) Langlois-Rémillard, A., Müßig, C., and Róldan-Roa, É. (2022) Complexity of chess domination problems. 18p.
+				 <a href="https://arxiv.org/abs/2211.05651">arXiv:2211.05651</a> 			
+			</li>
 			<li>
 				(accepted preprint) De Bie, H., Langlois-Rémillard, A., Oste, R., and Van der Jeugt, J. (2022) Generalised symmetries and bases for Dunkl monogenics. 18 p. Accepted in Rocky Mountain Journal of Mathematics.
 				 <a href="https://arxiv.org/abs/2203.01204">arXiv:2203.01204</a>
@@ -95,8 +100,14 @@ title: Alexis Langlois-Rémillard
 	
 	<h3>News</h3>
 	<p>
-		2022-11-07 Ik zal een activiteit animeren voor de tentoonstelling Imaginry aan UGent. Het gaat over spelletje, 
-		onderzoek en damen op schaaborden.
+		2022-11-11 Our new preprint with Christoph Müßig and Érika Róldan-Roa <em>Complexity of chess domination problems</em> is out at  <a href="https://arxiv.org/abs/2211.05651">arXiv:2211.05651</a> ! It proves NP-completeness of a few problems of domination
+		by queens and rooks on polycubes. It also boasts a companion <a href="https://www.erikaroldan.net/queensrooksdomination">video game</a> and the solver we present 
+		was used to extend <a href="	https://oeis.org/A075324">A075324</a>.	
+	</p>	
+	
+	<p>
+		2022-11-07 Ik zal een activiteit animeren voor de tentoonstelling Imaginry aan UGent. Het gaat over spelletjes, 
+		onderzoek en dames op schaaborden.
 	</p>	
 	
 		<p>
@@ -116,10 +127,11 @@ title: Alexis Langlois-Rémillard
 		les problèmes de dominations de l'échiquier par des dames, en considérant ce qui change lorsque les échiquiers sont modifiés.
 		
 		<p>
-		2022-09-08 My first master student, Pieter-Jan Vandaele, successfully defended his Master's thesis (co-mentored with Srdan Lazendic and Alá Guzmán Adán under Prof. Aleksandra Pizurica) titled: <em>Classical coding approaches to quantum applications</em>, congratulations!
+		2022-09-08 My first master student, Pieter-Jan Vandaele, successfully defended his Master's thesis (co-mentored with Srdan Lazendic and Alá Guzmán Adán under Prof. Aleksandra Pizurica) 
+		titled: <em>Classical coding approaches to quantum applications</em>, congratulations!
 		</p>
 		<p>
-		2022-08-22 I will be in Leipzig visiting Érika Roldan at the Max Planck Institute for Mathematics in sciences for a short one-week stay.		
+		2022-08-22 I will be in Leipzig visiting Érika Roldan-Roa at the Max Planck Institute for Mathematics in sciences for a short one-week stay.		
 		</p>
 		<p>
 		2022-07-05 We are starting the Kleine seminar again on Crystal bases! Check the <a href="/kleine_seminar">website</a> for more info.
