@@ -43,7 +43,11 @@ title: Alexis Langlois-Rémillard
 	<h3><a href="/publications/">Publications and preprints</a></h3>
 		<h4> Scientific articles</h4>
 		<u1>
-		
+
+			<li>
+			(preprint) Langlois-Rémillard, A. and Morin-Duchesne, A. (2023) Uncoiled affine Temperley-Lieb algebras and their Wenzl-Jones projectors. 37p. <a href="https://arxiv.org/abs/2302.12782">arXiv:2302.12782</a>
+			</li>
+
 			<li>
 				(preprint) Langlois-Rémillard, A., Müßig, C., and Róldan-Roa, É. (2022) Complexity of chess domination problems. 18p.
 				 <a href="https://arxiv.org/abs/2211.05651">arXiv:2211.05651</a> 			
@@ -116,6 +120,14 @@ title: Alexis Langlois-Rémillard
 	
 	<h3>News</h3>
 
+<p>
+	2023-02-27 Our preprint <b>Uncoiled affine Temperley-Lieb algebras and their Wenzl-Jones projectors</b> written with Alexi Morin-Duchesne is available online <a href="https://arxiv.org/abs/2302.12782">arXiv:2302.12782</a>!
+	It defines finite-dimensional quotients of the affine and periodic Temrperley-Lieb algebras and construct Wenzl-Jones idempotents for them. It is a quite colourful reading with many diagrams.
+</p>
+
+	<p>	
+	2023-02-26 I will be in Les Houches taking part in a winter school until 2023-03-04.	
+	</p>
 	<p>
 	2023-02-15 I will give a talk in the algebra seminar of the University of Glasgow. I will stay there 14 to 16 February.
 	</p>
@@ -252,7 +264,9 @@ title: Alexis Langlois-Rémillard
 	
 	
 	<h3>Recently organized events, conferences and sessions </h3>
-	<u1>				
+	<u1>		
+		<li> We are organising a mini-course on p-Kazhdan-Lusztig combinatorics in Ghent 17-21 April 2023 <a href="https://sites.google.com/view/kleine-seminar-mini-course/home">https://sites.google.com/view/kleine-seminar-mini-course/home</a>.
+	 </li>		
 		<li> We are running since Fall 2019 a small local seminar, aptly named the <a href="/kleine_seminar">Kleine seminar</a>, on various representation theory subjects at UGent. </li>
 		<li> Co-initiated SAMARI, a symposium on possible post-graduation avenues in mathematics, Université de Montréal, 2019/03/07-08. </li>
 		<li> Co-created <a href="https://mathstatnotes.wordpress.com/2018/06/07/ism-at-the-eureka-science-festival/">Le carréousel du géomètre</a> for the ISM participation in the festival Eureka!, Montréal, 2019/06/10.</li>
