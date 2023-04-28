@@ -4,6 +4,125 @@ title: Past subjects
 ---
  <h1>{{ page.title }}</h1>
  
+ 
+ 
+ 
+<h2>Mini-course on p-KL combinatorics April 17-21 2023</h2>
+
+For more information on the Ghent University doctoral schools mini-course on p-KL combinatorics, please navigate to  
+<a href="https://sites.google.com/view/kleine-seminar-mini-course"> https://sites.google.com/view/kleine-seminar-mini-course</a>. You can also navigate to <a href="/kleine_seminar/mini-course/">this webpage</a> for relay of information.
+
+<h3>Current topic of the seminar: Soergel bimodules</h3>
+
+
+<p>
+	We will begin the study of the book <a href="https://link.springer.com/book/10.1007/978-3-030-48826-0">
+	Introduction to Soergel Bimodules</a> by Elias, Makisumi, Thiel, Williamson and the many contributors.
+</p>
+
+	<h4>Next meeting: Thursday 14:00 30 March 2023, Leslokaal 3.2 S8, on Chapter 12 by Michiel Smet</h4>
+<p>
+	Michiel will close the seminar with Chapter 27.
+</p>	
+
+
+	<h4>Winter 2023 schedule</h4>
+	<table>
+<tr>
+<td>Ch. 8 Frobenius extensions and the one-color calculus </td>
+<td>Jari Desmet</td>
+<td>07/02/2023</td>
+</tr>
+<tr>
+<td>Ch. 9 The dihedral cathedral</td>
+<td>Sigiswald Barbier</td>
+<td>16/02/2023</td>
+</tr>
+<tr>
+<td>Ch. 10 Generators and relations for BS bimodules I</td>
+<td>Sam Claerebout </td>
+<td>23/02/2023</td>
+</tr>
+<tr>
+<td>Ch. 10 Generators and relations for BS bimodules II</td>
+<td>Sam Claerebout</td>
+<td>02/03/2023</td>
+</tr>
+<tr>
+<td>Ch. 11 The Soergel categorification Theorem part I</td>
+<td>Marcelo De Martino</td>
+<td>09/03/2023</td>
+</tr>
+<tr>
+<td>Ch. 11 The Soergel categorification Theorem part II</td>
+<td>Marcelo De Martino</td>
+<td>16/03/2023</td>
+</tr>
+<tr>
+<td>Ch. 12 How to draw Soergel bimodules</td>
+<td>Alexis Langlois-Rémillard</td>
+<td>23/03/2023</td>
+</tr>
+<tr>
+<td>Ch. 27 The p-canonical basis</td>
+<td>Michiel Smet</td>
+<td>30/03/2023</td>
+</tr>
+</table>
+			
+	<h4>Fall 2022 schedule</h4>
+	<table>
+<tr>
+<td>Coxeter groups and reflection groups </td>
+<td>Marcelo De Martino</td>
+<td>18/11/2022</td>
+</tr>
+<tr>
+<td>Hecke algebra and KL polynomial</td>
+<td>Michiel Smet</td>
+<td>25/11/2022</td>
+</tr>
+<tr>
+<td>Soergel bimodules</td>
+<td>Sam Claerebout </td>
+<td>02/12/2022</td>
+</tr>
+<tr>
+<td>Classical theory of Soergel bimodules</td>
+<td>Sigiswald Barbier</td>
+<td>09/12/2022</td>
+</tr>
+<tr>
+<td>Diagrammatic</td>
+<td>Alexis Langlois-Rémillard</td>
+<td>16/12/2022</td>
+</tr>
+<tr>
+<td>Remaining? </td>
+<td>-</td>
+<td>Next year?</td>
+</tr>
+</table>
+	
+	
+	
+	<h4>Meetings minutes</h4>
+	<p>
+		You can find here <a href= "/kleine_seminar/notes/">the note of the meeting</a> if provided by the speaker. 
+	</p>
+		
+
+<h4>Past meetings in the Summer 2022 semester</h4>
+		<u1>				
+				<li>2022-09-13 Chapter 8 by Sam Claerebout</li>	
+				<li>2022-09-05 Chapter 7 by Sigiswald Barbier</li>	
+				<li>2022-08-30 Chapter 6 by Asmus Bisbo</li>				
+				<li>2022-08-23 Chapter 5 by Michiel Smet</li>				
+				<li>2022-08-16 Chapter 4 by Marcelo De Martino</li>				
+				<li>2022-07-12 Chapter 3 by Jari Desmet</li>
+				<li>2022-07-05 Chapter 2 by Alexis Langlois-Rémillard</li>
+		</u1>
+ 
  <h2>Winter 2022 seminar</h2>
 
 	<h4>Past meetings in the Winter 2022 semester</h4>

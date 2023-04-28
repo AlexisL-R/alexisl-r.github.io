@@ -30,9 +30,11 @@ title: Alexis Langlois-Rémillard
 	<p>
 		I will stay in Ghent until May (with possibly some vacations). Make sure to come to our mini-course on p-Kazhdan-Lusztig combinatorics 17-21 April!	
 	</p>
-	
 	<p>
-	My next big travel for conference will be to Okinawa June 05-10	<a href="https://groups.oist.jp/hecke-algebras-and-categorification">Representation theory of Hecke algebras and categorification</a>
+	On April 24th, I will defend my PhD in Ghent at 17:00 in the faculty room campus Sterre S2; you are certainly welcomed if you happen to be there!	
+	</p>
+	<p>
+	My next conference will be in Okinawa June 05-10	<a href="https://groups.oist.jp/hecke-algebras-and-categorification">Representation theory of Hecke algebras and categorification</a>
 	</p>
 	
 		
@@ -154,9 +156,9 @@ title: Alexis Langlois-Rémillard
 	</p>	
 	
 	<p>
-		2022-11-11 Our new preprint with Christoph Müßig and Érika Roldán-Roa <em>Complexity of chess domination problems</em> is out at  <a href="https://arxiv.org/abs/2211.05651">arXiv:2211.05651</a> ! It proves NP-completeness of a few problems of domination
+		2022-11-11 Our new preprint with Chris Müßig and Érika Roldán-Roa <em>Complexity of chess domination problems</em> is out at  <a href="https://arxiv.org/abs/2211.05651">arXiv:2211.05651</a> ! It proves NP-completeness of a few problems of domination
 		by queens and rooks on polycubes. It also boasts a companion <a href="https://www.erikaroldan.net/queensrooksdomination">video game</a> and the solver we present 
-		was used to extend <a href="	https://oeis.org/A075324">A075324</a>.	
+		was used to extend <a href="https://oeis.org/A075324">A075324</a>.	
 	</p>	
 	
 	<p>
@@ -242,7 +244,6 @@ title: Alexis Langlois-Rémillard
 		the realisation of the Dunkl-Dirac operator in this setting. It is dihedral because the reflection group is the product of a dihedral group and $\mathrm{Z}_2$ acting
 		 on a three-dimensional space.  
 		</p>		
-		
 		<p>
 		2020-10-02 The Kleine seminar starts again for Fall 2020! We will continue on <em>categorification</em>. More information in the <a href="/kleine_seminar">website</a>. 		
 		</p>	
@@ -257,9 +258,8 @@ title: Alexis Langlois-Rémillard
 		 <a href="https://scipost.org/10.21468/SciPostPhys.8.2.019">10.21468/SciPostPhys.8.2.019</a> 
 		</p>
 		<p>
-		The Kleine seminar of Winter 2020 will be on <em>categorification</em>. More information in the <a href="/kleine_seminar">website</a>. 		
+		2020-01-06 The Kleine seminar of Winter 2020 will be on <em>categorification</em>. More information in the <a href="/kleine_seminar">website</a>. 		
 		</p>		
-		
 		<p>
 		2019-09-10. We recently put our paper <strong>The representation theory of seam algebras</strong> on arXiv (link: <a href="https://arxiv.org/abs/1909.03499"> 19.09.03499</a>)! If you are interested in 
 		the representation theory of diagrammatic algebras, want an example of the use of cellular algebras or simply enjoy looking at diagrams, then it is the paper for you!
@@ -267,7 +267,7 @@ title: Alexis Langlois-Rémillard
 		by Wenzl-Jones projectors. (Update 2019-11-11: I wrote a small <a href="/blog/2019/11/11/Seam_algebras">note</a> aimed at non-specialists for more information.)
 		</p>
 	
-	
+	<!--
 	<h3>Recently organized events, conferences and sessions </h3>
 	<u1>		
 		<li> We are organising a mini-course on p-Kazhdan-Lusztig combinatorics in Ghent 17-21 April 2023 <a href="https://sites.google.com/view/kleine-seminar-mini-course/home">https://sites.google.com/view/kleine-seminar-mini-course/home</a>.
@@ -275,16 +275,25 @@ title: Alexis Langlois-Rémillard
 		<li> We are running since Fall 2019 a small local seminar, aptly named the <a href="/kleine_seminar">Kleine seminar</a>, on various representation theory subjects at UGent. </li>
 		<li> Co-initiated SAMARI, a symposium on possible post-graduation avenues in mathematics, Université de Montréal, 2019/03/07-08. </li>
 		<li> Co-created <a href="https://mathstatnotes.wordpress.com/2018/06/07/ism-at-the-eureka-science-festival/">Le carréousel du géomètre</a> for the ISM participation in the festival Eureka!, Montréal, 2019/06/10.</li>
-		<li> Students poster session co-organizer in the  CMS Summer Meeting, Fredericton, 2018/06/01-04.</li>
+<li> Students poster session co-organizer in the  CMS Summer Meeting, Fredericton, 2018/06/01-04.</li>
 		<li> Math session organizer in SAPHARI, a symposium on possible post-graduation avenues in physics, UdeM, 2018/03/08-09.</li>
 		<li> Co-organized SUMM 2018, an undergraduate annual provincial conference in Montréal, at Concordia University, 2018/01/12-14.</li>
 		<li> Students poster session co-organizer in the CMS Winter Meeting, Waterloo, 2017/12/08-11.</li>
-		<li> Co-organized CUMC 2017, an annual national undergraduate conference, Concordia; McGill; UdeM; UQAM, Montréal, 2017/07/19-23.</li> 
+		<li> Co-organized CUMC 2017, an annual national undergraduate conference, Concordia; McGill; UdeM; UQAM, Montréal, 2017/07/19-23.</li>
 	</u1>
 	
 	<h3>Selected recent and future talks</h3>
 	<u1>
-		<li> Presentation for a special day in honor of Yvan Saint Aubin, Montréal, October 2022</li>
+	 October 2022 Combinatorics seminar Dartmouth college, Dartmouth college, Hanover. Sandwich cellularity and constructing idempotents in quotients of the affine Temperley-Lieb algebras.
+October 2022, Integrable systems, exactly solvable models and algebras, CRM, Montréal, Representations and Jones-Wenzl elements of quotients of the affine Temperley-Lieb algebra 
+ 17 March 2023 Clifford research seminar, Universiteit Gent, Belgium, Uncoiled algebras, their Wenzl-Jones projectors and how to construct them
+July 2022, Group34, Strasbourg, Monogenic representations of the algebra of symmetries of the generalised Dirac operator
+May 2022, Non-commutative algebras, representation theory and special functions, CRM, Montréal On the representation theory of a symmetry algebra associated to a generalised Dirac operator
+February 2022, Clifford research seminar, Universiteit Gent, Online, Bases for Dunkl monogenics by generalised symmetries
+		<li><em>Representations of the Dunkl total angular momentum algebra</em>. Algebra seminar of the University of Glasgow, Glasgow, Scotland.</li>
+		<li><em>Representations of the Dunkl total angular momentum algebra</em>. Algebra seminar of the University of Manchester, Manchester, England.</li> 
+		<li><em>Sandwich cellularity and constructing idempotents in quotients of the affine Temperley-Lieb algebras.</em>Combinatorics seminar Dartmouth college, Dartmouth college, Hanover. </li>		
+		<li> Presentation for a special day in honor of Yvan Saint-Aubin, Montréal, October 2022</li>
 		<li> Presentation at Group34, Strasbourg, July 2022</li>
 		<li> Presentation at the special month on Non-commutative algebras, representation theory and special functions, Montréal, May and June 2022</li>
 		<li> A poster at the PhD day of the Belgian Mathematical society, Liège, 13 May 2022</li>		
@@ -298,7 +307,7 @@ title: Alexis Langlois-Rémillard
 		<li> <em>Idempotence, cellularité et algèbres diagrammatiques</em> Seminar: representation theory of algebras, Université de Sherbrooke, November 2018</li>
 		<li> <em>Roots of unity and the representation theory of boundary seam algebras</em> Mathematical physics seminar, Université de Montréal, October 2018</li>
 	</u1>
-	
+	-->
 	<h3>Public funding</h3>
 	My research is publicly funded by the Fonds de Recherche du Québec - Nature et technologies (270527) and from the Excellence in Science research project <a href="https://sites.uclouvain.be/eos-prima/">PRIMA</a> (30889451).
 	
